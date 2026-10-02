@@ -2,43 +2,25 @@
   "site": {
     "titulo": "Fralda Certa",
     "handle": "@seuperfil",
-    "linkPerfil": "https://instagram.com/seuperfil",
-    "amazonTag": "COLE-SUA-TAG-AQUI-20",
-    "mlParametros": "COLE AQUI UM LINK DE AFILIADA COMPLETO DO MERCADO LIVRE",
+    "linkPerfil": "",
+    "amazonTag": "",
+    "mlParametros": "matt_word=basa5967489&matt_tool=94667809",
     "amazonValidadeDias": 1
   },
   "produtos": [
     {
-      "id": "pampers-confortsec-m",
+      "id": "pampers-confortsec-g-60",
       "marca": "Pampers",
       "linha": "Confort Sec",
       "tipo": "tradicional",
-      "tamanho": "M",
-      "qtd": 80,
-      "mercadolivre": {
-        "url": "COLE AQUI O LINK DO ANÚNCIO NO MERCADO LIVRE",
-        "linkAfiliada": ""
-      },
-      "amazon": {
-        "url": "COLE AQUI O LINK DO PRODUTO NA AMAZON",
-        "preco": null,
-        "conferidoEm": "",
-        "linkAfiliada": ""
-      }
-    },
-    {
-      "id": "huggies-triplaprotecao-g",
-      "marca": "Huggies",
-      "linha": "Tripla Proteção",
-      "tipo": "tradicional",
       "tamanho": "G",
-      "qtd": 68,
+      "qtd": 60,
       "mercadolivre": {
-        "url": "COLE AQUI O LINK DO ANÚNCIO NO MERCADO LIVRE",
+        "url": "https://www.mercadolivre.com.br/fralda-pampers-confort-sec-tamanho-g-60-unidades/p/MLB18392698",
         "linkAfiliada": ""
       },
       "amazon": {
-        "url": "COLE AQUI O LINK DO PRODUTO NA AMAZON",
+        "url": "",
         "preco": null,
         "conferidoEm": "",
         "linkAfiliada": ""
