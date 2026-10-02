@@ -1,45 +1,25 @@
-aml
-name: Atualizar preços
-
+name: Atualizar precos
 on:
   schedule:
-    - cron: "0 9,21 * * *"   # todo dia às 6h e às 18h (horário de Brasília)
-  workflow_dispatch:          # botão "Run workflow" para atualizar na hora
+    - cron: "0 9,21 * * *"
+  workflow_dispatch:
   push:
     paths:
-      - "produtos.json"       # atualiza sozinho quando você edita a lista
-
+      - "produtos.json"
 permissions:
   contents: write
-
-concurrency:
-  group: atualizar-precos
-  cancel-in-progress: false
-
 jobs:
   atualizar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-
-      - name: Consultar preços no Mercado Livre
+      - name: Consultar precos
         run: node scripts/atualizar.mjs
         env:
           ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
           ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
-
-      - name: Salvar preços novos
-        run: |
-          if git diff --quiet docs/dados.json; then
-            echo "Nenhum preço mudou."
-            exit 0
-          fi
-          git config user.name "robo-precos"
-          git config user.email "robo-precos@users.noreply.github.com"
-          git add docs/dados.json
-          git commit -m "Preços atualizados"
-          git push
+      - name: Salvar precos
+        run: git diff --quiet docs/dados.json || (git config user.name robo-precos && git config user.email robo-precos@users.noreply.github.com && git add docs/dados.json && git commit -m "Precos atualizados" && git push)
