@@ -1,0 +1,45 @@
+{
+  "geradoEm": "2026-10-02T02:58:13.303Z",
+  "site": {
+    "titulo": "Fralda Certa",
+    "handle": "@seuperfil",
+    "linkPerfil": "https://instagram.com/seuperfil",
+    "amazonValidadeDias": 1
+  },
+  "produtos": [
+    {
+      "id": "pampers-confortsec-m",
+      "marca": "Pampers",
+      "linha": "Confort Sec",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 80,
+      "mercadolivre": {
+        "linkAfiliada": "",
+        "preco": null
+      },
+      "amazon": {
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-triplaprotecao-g",
+      "marca": "Huggies",
+      "linha": "Tripla Proteção",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 68,
+      "mercadolivre": {
+        "linkAfiliada": "",
+        "preco": null
+      },
+      "amazon": {
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    }
+  ]
+}

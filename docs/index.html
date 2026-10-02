@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Fralda Certa: compare o preço por fralda</title>
+<meta name="description" content="Compare o preço por fralda na Amazon e no Mercado Livre, por tamanho e marca.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍼</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F4F1FF; --surface:#FFFFFF; --ink:#272042; --muted:#6B6488; --line:#E2DCF7;
+  --plum:#5B3FD9; --plum-soft:#EAE4FF; --sun:#FFCC4D; --sun-ink:#4A3600;
+  --ml:#FFE600; --ml-ink:#2D3277; --amz:#232F3E; --amz-ink:#FFFFFF; --ok:#1F8A5B;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#17132B; --surface:#221C3D; --ink:#F1EDFF; --muted:#AFA6D6; --line:#3A3263;
+    --plum:#A893FF; --plum-soft:#2F2757; --sun:#FFCC4D; --sun-ink:#2B1F00; --ok:#5BD69B;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#17132B; --surface:#221C3D; --ink:#F1EDFF; --muted:#AFA6D6; --line:#3A3263;
+  --plum:#A893FF; --plum-soft:#2F2757; --sun:#FFCC4D; --sun-ink:#2B1F00; --ok:#5BD69B;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 "Nunito Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:760px;margin:0 auto;padding:0 18px}
+h1,h2,h3,.display{font-family:"Baloo 2","Nunito Sans",system-ui,sans-serif;line-height:1.1;margin:0}
+button,select,input{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--plum);outline-offset:2px;border-radius:8px}
+img{max-width:100%}
+
+/* topo */
+.top{display:flex;align-items:center;justify-content:space-between;padding:18px 0 4px}
+.brand{font-family:"Baloo 2",sans-serif;font-weight:800;font-size:1.25rem;color:var(--plum)}
+.handle{color:var(--muted);font-weight:600;font-size:.95rem;text-decoration:none}
+
+/* hero */
+.hero{padding:26px 0 8px}
+.hero h1{font-size:clamp(2rem,7vw,3.1rem);font-weight:800;letter-spacing:-.01em;max-width:15ch}
+.hero p{color:var(--muted);margin:10px 0 0;max-width:46ch}
+.sizes{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 6px}
+.size{width:62px;height:62px;border-radius:50%;border:2px solid var(--line);background:var(--surface);
+  font-family:"Baloo 2",sans-serif;font-weight:700;font-size:1.15rem;cursor:pointer;transition:transform .15s,background .15s}
+.size small{display:block;font:600 .62rem/1 "Nunito Sans",sans-serif;color:var(--muted);margin-top:-2px}
+.size[aria-pressed="true"]{background:var(--plum);border-color:var(--plum);color:#fff;transform:scale(1.06)}
+.size[aria-pressed="true"] small{color:#ffffffcc}
+.size.all{width:auto;padding:0 18px;border-radius:31px;font-size:1rem}
+
+/* achado */
+.winner{margin:20px 0 6px;background:var(--sun);color:var(--sun-ink);border-radius:26px 26px 26px 6px;padding:20px 22px;display:grid;gap:4px}
+.winner .lbl{font-weight:700;font-size:.95rem}
+.winner .big{font-family:"Baloo 2",sans-serif;font-weight:800;font-size:clamp(2.6rem,11vw,3.6rem);line-height:1}
+.winner .big span{font-size:1.1rem;font-weight:700}
+.winner .what{font-weight:600}
+.winner a.go{justify-self:start;margin-top:10px}
+
+/* filtros */
+.filters{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:26px 0 14px}
+.seg{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px}
+.seg button{border:0;background:transparent;padding:7px 14px;border-radius:999px;cursor:pointer;font-weight:600;font-size:.92rem;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--plum-soft);color:var(--ink)}
+.sel{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:9px 14px;font-weight:600;font-size:.92rem;max-width:100%}
+.count{color:var(--muted);font-size:.9rem;margin-left:auto}
+
+/* cards */
+.list{display:grid;gap:14px;padding-bottom:10px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:22px;padding:16px 16px 14px}
+.card-h{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:12px}
+.card-h h3{font-size:1.3rem;font-weight:700}
+.card-h .sub{color:var(--muted);font-size:.9rem;font-weight:600}
+.tag{flex:none;background:var(--plum-soft);color:var(--plum);font-family:"Baloo 2",sans-serif;font-weight:800;font-size:1.05rem;border-radius:12px;padding:2px 12px}
+.offer{display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:center;padding:12px;border-radius:16px;border:1px solid var(--line);margin-top:8px}
+.offer.best{border:2px solid var(--ok);background:color-mix(in srgb,var(--ok) 7%,var(--surface))}
+.store{display:inline-flex;align-items:center;gap:8px;font-weight:700;font-size:.95rem}
+.dot{width:12px;height:12px;border-radius:50%;flex:none}
+.dot.ml{background:var(--ml);box-shadow:0 0 0 1px #00000022}
+.dot.amz{background:#FF9900}
+.unit{font-family:"Baloo 2",sans-serif;font-weight:800;font-size:1.6rem;line-height:1;text-align:right}
+.unit small{font:600 .75rem "Nunito Sans",sans-serif;color:var(--muted);display:block}
+.pack{color:var(--muted);font-size:.88rem}
+.badge{color:var(--ok);font-weight:700;font-size:.85rem}
+.offer .go{grid-column:1 / -1;margin-top:8px}
+.missing{color:var(--muted);font-size:.88rem;padding:10px 12px;border:1px dashed var(--line);border-radius:16px;margin-top:8px}
+.save{margin-top:10px;font-size:.9rem;font-weight:600;color:var(--ok)}
+
+.go{display:inline-flex;justify-content:center;align-items:center;gap:6px;width:100%;text-decoration:none;font-weight:700;border-radius:14px;padding:12px 16px;font-size:.98rem;border:0;cursor:pointer}
+.go.ml{background:var(--ml);color:var(--ml-ink)}
+.go.amz{background:var(--amz);color:var(--amz-ink)}
+.go.dark{background:var(--sun-ink);color:var(--sun);width:auto}
+.go[aria-disabled="true"]{opacity:.5;cursor:not-allowed}
+
+.empty{text-align:center;padding:40px 16px;color:var(--muted)}
+.empty strong{display:block;color:var(--ink);font-family:"Baloo 2",sans-serif;font-size:1.3rem}
+.note{background:var(--plum-soft);border-radius:16px;padding:12px 14px;font-size:.9rem;margin:16px 0 0}
+.tips{margin:34px 0 0}
+.tips h2{font-size:1.5rem;margin-bottom:8px}
+.tips p{margin:6px 0;color:var(--muted);max-width:60ch}
+footer{color:var(--muted);font-size:.82rem;padding:30px 0 40px;border-top:1px solid var(--line);margin-top:34px}
+footer p{margin:6px 0;max-width:65ch}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.drop{color:var(--ok);font-weight:700;font-size:.85rem}
+.stale{color:var(--muted);font-size:.82rem}
+
+.step{margin:18px 0 0}
+.step-t{display:block;font-family:"Baloo 2",sans-serif;font-weight:700;font-size:1.15rem}
+.step-h{display:block;color:var(--muted);font-size:.85rem;margin-top:-2px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.chip{border:2px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 16px;font-weight:700;font-size:.95rem;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--plum);border-color:var(--plum);color:#fff}
+.empty .chip{display:inline-block}
+</style>
+</head>
+<body>
+<div id="app"><div class="wrap empty">Carregando preços...</div></div>
+<script>
+(function(){
+"use strict";
+var SIZES=[["RN","recém"],["P","até 6kg"],["M","5–9kg"],["G","9–12kg"],["XG","12–15kg"],["XXG","14kg+"]];
+var STORES={amazon:{nome:"Amazon",cls:"amz"},ml:{nome:"Mercado Livre",cls:"ml"}};
+var TIPOS={tradicional:"Comum (com fita)",pants:"Pants (calça)"};
+var ui={tam:"M",tipo:"todos",marcas:[],ordem:"unit"};
+// lembra a escolha da mãe na próxima visita
+try{var salvo=JSON.parse(localStorage.getItem("fralda-escolha")||"null");if(salvo){if(salvo.tam)ui.tam=salvo.tam;if(salvo.tipo)ui.tipo=salvo.tipo;if(Array.isArray(salvo.marcas))ui.marcas=salvo.marcas;}}catch(e){}
+function lembrar(){try{localStorage.setItem("fralda-escolha",JSON.stringify({tam:ui.tam,tipo:ui.tipo,marcas:ui.marcas}));}catch(e){}}
+function juntar(l){return l.length<2?l.join(""):l.slice(0,-1).join(", ")+" ou "+l[l.length-1];}
+var DATA=null;
+var brl=new Intl.NumberFormat("pt-BR",{style:"currency",currency:"BRL"});
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+function safe(u){return /^https:\/\//i.test(u||"")?u:"";}
+function fmtDataHora(iso){var d=new Date(iso);return isNaN(d)?"":d.toLocaleString("pt-BR",{day:"2-digit",month:"long",hour:"2-digit",minute:"2-digit"});}
+function fmtData(iso){var d=new Date(iso+"T12:00:00");return isNaN(d)?"":d.toLocaleDateString("pt-BR",{day:"2-digit",month:"long"});}
+
+// Monta as ofertas válidas de cada produto
+function ofertas(p){
+  var o={};
+  var ml=p.mercadolivre||{};
+  if(typeof ml.preco==="number"&&ml.disponivel) o.ml={loja:"ml",preco:ml.preco,qtd:p.qtd,link:ml.linkAfiliada,frete:ml.freteGratis,anterior:ml.precoAnterior,erro:ml.erro};
+  var a=p.amazon||{}, dias=(DATA.site&&DATA.site.amazonValidadeDias)||1;
+  var idade=a.conferidoEm?(Date.now()-new Date(a.conferidoEm+"T23:59:59").getTime())/864e5:Infinity;
+  if(typeof a.preco==="number"&&idade<=dias) o.amazon={loja:"amazon",preco:a.preco,qtd:p.qtd,link:a.linkAfiliada,conferido:a.conferidoEm};
+  else if(safe(a.linkAfiliada)) o.amazonSemPreco={loja:"amazon",link:a.linkAfiliada};
+  return o;
+}
+function unit(o){return o.preco/o.qtd;}
+
+function lista(){
+  return DATA.produtos.filter(function(p){
+    return (ui.tam==="todos"||p.tamanho===ui.tam)&&(ui.tipo==="todos"||p.tipo===ui.tipo)&&(!ui.marcas.length||ui.marcas.indexOf(p.marca)>=0);
+  }).map(function(p){
+    var o=ofertas(p), best=null;
+    ["ml","amazon"].forEach(function(k){if(o[k]&&(!best||unit(o[k])<unit(best)))best=o[k];});
+    return {p:p,o:o,best:best};
+  }).filter(function(g){return g.best||g.o.amazonSemPreco;})
+  .sort(ui.ordem==="marca"
+    ?function(a,b){return (a.p.marca+a.p.linha).localeCompare(b.p.marca+b.p.linha,"pt-BR");}
+    :function(a,b){return (a.best?unit(a.best):Infinity)-(b.best?unit(b.best):Infinity);});
+}
+
+function botao(o,extra){
+  var s=STORES[o.loja], href=safe(o.link);
+  if(!href) return '<a class="go '+s.cls+' '+(extra||"")+'" aria-disabled="true" role="link">Link em breve</a>';
+  return '<a class="go '+s.cls+' '+(extra||"")+'" href="'+esc(href)+'" target="_blank" rel="sponsored noopener">Ver no '+s.nome+'</a>';
+}
+
+function render(){
+  var gs=lista(), app=document.getElementById("app");
+  // marcas que existem no tamanho e tipo escolhidos (as já marcadas continuam aparecendo)
+  var marcas=Array.from(new Set(DATA.produtos.filter(function(p){
+    return (ui.tam==="todos"||p.tamanho===ui.tam)&&(ui.tipo==="todos"||p.tipo===ui.tipo);
+  }).map(function(p){return p.marca;}).concat(ui.marcas))).sort(function(a,b){return a.localeCompare(b,"pt-BR");});
+  var comPreco=gs.filter(function(g){return g.best;}).sort(function(a,b){return unit(a.best)-unit(b.best);});
+  var top=comPreco[0];
+  var site=DATA.site||{}, perfil=safe(site.linkPerfil);
+  document.title=(site.titulo||"Fralda Certa")+": compare o preço por fralda";
+
+  var h='<div class="wrap"><header class="top"><span class="brand">'+esc(site.titulo||"Fralda Certa")+'</span>'+
+    (perfil?'<a class="handle" href="'+esc(perfil)+'" target="_blank" rel="noopener">'+esc(site.handle)+'</a>':'<span class="handle">'+esc(site.handle)+'</span>')+'</header>';
+  h+='<section class="hero"><h1>Quanto custa cada fralda, de verdade?</h1><p>Pacote maior nem sempre sai mais barato. Escolha o tamanho do seu bebê e veja o preço por fralda, atualizado todo dia.</p><div class="sizes" role="group" aria-label="Tamanho da fralda">';
+  SIZES.forEach(function(s){h+='<button class="size" data-tam="'+s[0]+'" aria-pressed="'+(ui.tam===s[0])+'">'+s[0]+'<small>'+s[1]+'</small></button>';});
+  h+='<button class="size all" data-tam="todos" aria-pressed="'+(ui.tam==="todos")+'">Todos</button></div>';
+  h+='<div class="step"><span class="step-t">Comum ou pants?</span><div class="chips" role="group" aria-label="Tipo de fralda">';
+  [["todos","Tanto faz"],["tradicional","Comum (com fita)"],["pants","Pants (calça)"]].forEach(function(t){h+='<button class="chip" data-tipo="'+t[0]+'" aria-pressed="'+(ui.tipo===t[0])+'">'+t[1]+'</button>';});
+  h+='</div></div><div class="step"><span class="step-t">Tem marca preferida?</span><span class="step-h">Pode escolher mais de uma.</span><div class="chips" role="group" aria-label="Marcas">';
+  h+='<button class="chip" data-marca="" aria-pressed="'+(!ui.marcas.length)+'">Sem preferência</button>';
+  marcas.forEach(function(m){h+='<button class="chip" data-marca="'+esc(m)+'" aria-pressed="'+(ui.marcas.indexOf(m)>=0)+'">'+esc(m)+'</button>';});
+  h+='</div></div>';
+  var desc=ui.tam==="todos"?"em qualquer tamanho":"no tamanho "+ui.tam;
+  if(ui.tipo!=="todos") desc+=ui.tipo==="pants"?", pants":", comum";
+  if(ui.marcas.length) desc+=", "+juntar(ui.marcas);
+  if(top){
+    var b=top.best;
+    h+='<div class="winner" aria-live="polite"><span class="lbl">A fralda mais em conta '+esc(desc)+'</span><span class="big">'+brl.format(unit(b))+' <span>por fralda</span></span><span class="what">'+esc(top.p.marca)+' '+esc(top.p.linha)+' · '+b.qtd+' unidades por '+brl.format(b.preco)+' no '+STORES[b.loja].nome+'</span>'+botao(b,"dark")+'</div>';
+  }
+  h+='</section><div class="filters"><select class="sel" id="ordem" aria-label="Ordenar"><option value="unit"'+(ui.ordem==="unit"?" selected":"")+'>Mais barata primeiro</option><option value="marca"'+(ui.ordem==="marca"?" selected":"")+'>Por marca</option></select><span class="count">'+gs.length+' '+(gs.length===1?"opção":"opções")+'</span></div><div class="list">';
+  if(!gs.length) h+='<div class="empty"><strong>Nenhuma fralda com essa combinação</strong>'+(ui.marcas.length||ui.tipo!=="todos"?'<button class="chip" id="limpar" style="margin-top:12px">Ver todas do tamanho '+esc(ui.tam==="todos"?"":ui.tam)+'</button>':'Ainda não tenho preços para esse tamanho.')+'</div>';
+  gs.forEach(function(g){
+    var p=g.p, o=g.o, both=o.ml&&o.amazon;
+    h+='<article class="card"><div class="card-h"><div><h3>'+esc(p.marca)+'</h3><div class="sub">'+esc(p.linha)+' · '+TIPOS[p.tipo]+'</div></div><span class="tag">'+esc(p.tamanho)+'</span></div>';
+    [o.ml,o.amazon].filter(Boolean).sort(function(a,b){return unit(a)-unit(b);}).forEach(function(x){
+      var isBest=both&&x===g.best, extra="";
+      if(x.loja==="ml"&&typeof x.anterior==="number"&&x.anterior-x.preco>=0.5) extra+='<div class="drop">Baixou '+brl.format(x.anterior-x.preco)+' desde a última consulta</div>';
+      if(x.loja==="ml"&&x.frete) extra+='<div class="pack">Frete grátis</div>';
+      if(x.loja==="amazon") extra+='<div class="stale">Preço conferido em '+fmtData(x.conferido)+'</div>';
+      h+='<div class="offer'+(isBest?" best":"")+'"><div><div class="store"><span class="dot '+STORES[x.loja].cls+'"></span>'+STORES[x.loja].nome+'</div><div class="pack">'+x.qtd+' fraldas por '+brl.format(x.preco)+'</div>'+(isBest?'<div class="badge">Melhor preço</div>':"")+extra+'</div><div class="unit">'+brl.format(unit(x))+'<small>por fralda</small></div>'+botao(x)+'</div>';
+    });
+    if(!o.amazon&&o.amazonSemPreco) h+='<div class="offer"><div><div class="store"><span class="dot amz"></span>Amazon</div><div class="pack">Confira o preço de hoje direto na loja</div></div><div></div>'+botao(o.amazonSemPreco)+'</div>';
+    if(both){var outro=o.ml===g.best?o.amazon:o.ml, diff=(unit(outro)-unit(g.best))*g.best.qtd; if(diff>=0.5) h+='<div class="save">Economia de '+brl.format(diff)+' num pacote de '+g.best.qtd+'.</div>';}
+    h+='</article>';
+  });
+  h+='</div><section class="tips"><h2>Antes de comprar</h2><p>Compare sempre o preço por fralda, não o preço do pacote. Um pacote de 90 pode sair mais caro por unidade que um de 60.</p><p>Confira o frete e se o vendedor é a loja oficial da marca.</p><p>Bebê perto de trocar de tamanho? Evite estocar pacotão do tamanho atual.</p></section>';
+  h+='<footer><p>Preços do Mercado Livre atualizados automaticamente'+(DATA.geradoEm?' em '+fmtDataHora(DATA.geradoEm):'')+'. Os preços mudam o tempo todo, então confirme o valor final na loja antes de comprar.</p><p>Alguns links são de afiliada: se você comprar por eles, eu posso ganhar uma comissão, sem nenhum custo a mais para você. Obrigada pelo apoio!</p></footer></div>';
+  app.innerHTML=h;
+  function mudou(){lembrar();render();}
+  document.querySelectorAll("[data-tam]").forEach(function(b){b.onclick=function(){ui.tam=b.dataset.tam;mudou();};});
+  document.querySelectorAll("[data-tipo]").forEach(function(b){b.onclick=function(){ui.tipo=b.dataset.tipo;mudou();};});
+  document.querySelectorAll("[data-marca]").forEach(function(b){b.onclick=function(){
+    var m=b.dataset.marca;
+    if(!m) ui.marcas=[];
+    else{var i=ui.marcas.indexOf(m); if(i>=0) ui.marcas.splice(i,1); else ui.marcas.push(m);}
+    mudou();
+  };});
+  var lp=document.getElementById("limpar"); if(lp) lp.onclick=function(){ui.tipo="todos";ui.marcas=[];mudou();};
+  document.getElementById("ordem").onchange=function(e){ui.ordem=e.target.value;render();};
+}
+
+fetch("dados.json?v="+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(d){DATA=d;render();})
+.catch(function(){document.getElementById("app").innerHTML='<div class="wrap empty"><strong>Os preços ainda não carregaram</strong>Recarregue a página em alguns instantes.</div>';});
+})();
+</script>
+</body></html>
