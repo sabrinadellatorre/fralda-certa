@@ -24,12 +24,15 @@ async function obterToken() {
 const log = [];
 let token = "";
 async function api(caminho) {
-  const r = await fetch(API + caminho, { headers: { accept: "application/json", authorization: "Bearer " + token } });
-  if (!r.ok) {
+  for (let tentativa = 0; tentativa < 5; tentativa++) {
+    const r = await fetch(API + caminho, { headers: { accept: "application/json", authorization: "Bearer " + token } });
+    if (r.ok) return r.json();
+    if (r.status === 429) { await espera(3000 * (tentativa + 1)); continue; }
     log.push({ caminho, status: r.status, resposta: (await r.text().catch(() => "")).slice(0, 200) });
     throw new Error("HTTP " + r.status);
   }
-  return r.json();
+  log.push({ caminho, status: 429 });
+  throw new Error("HTTP 429");
 }
 const espera = (ms) => new Promise((ok) => setTimeout(ok, ms));
 
@@ -49,7 +52,7 @@ for (const linha of LINHAS) {
       vistos.set(p.id, { id: p.id, nome: p.name, busca: q, atributos: (p.attributes || []).filter((a) =>
         /BRAND|LINE|SIZE|UNITS|PACKAGE|DIAPER|FORMAT|MODEL/i.test(a.id)).map((a) => [a.id, a.value_name]) });
     }
-    await espera(150);
+    await espera(1000);
   }
 }
 
@@ -62,7 +65,7 @@ for (const p of vistos.values()) {
     p.ofertas = precos.length;
     p.menorPreco = precos[0] ?? null;
   } catch { p.ofertas = 0; p.menorPreco = null; }
-  await espera(150);
+  await espera(1000);
 }
 
 await writeFile("sugestoes.json", JSON.stringify({
