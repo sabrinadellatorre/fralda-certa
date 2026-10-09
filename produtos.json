@@ -1303,6 +1303,186 @@
         "conferidoEm": "",
         "linkAfiliada": ""
       }
+    },
+    {
+      "id": "huggies-natural-care-kit-3-pacotes-rn-102",
+      "marca": "Huggies",
+      "linha": "Natural Care (kit 3 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "RN",
+      "qtd": 102,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB65284467",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-supreme-care-kit-3-pacotes-p-144",
+      "marca": "Huggies",
+      "linha": "Supreme Care (kit 3 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 144,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB62636548",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-baby-kit-6-pacotes-p-264",
+      "marca": "Turma da Mônica",
+      "linha": "Baby (kit 6 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 264,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB65406557",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-baby-kit-5-pacotes-p-100",
+      "marca": "Turma da Mônica",
+      "linha": "Baby (kit 5 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 100,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB37724044",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mamypoko-dia-e-noite-calca-kit-4-pacotes-m-232",
+      "marca": "MamyPoko",
+      "linha": "Dia & Noite Calça (kit 4 pacotes)",
+      "tipo": "pants",
+      "tamanho": "M",
+      "qtd": 232,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB51653517",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mamypoko-dia-e-noite-calca-kit-4-pacotes-xg-168",
+      "marca": "MamyPoko",
+      "linha": "Dia & Noite Calça (kit 4 pacotes)",
+      "tipo": "pants",
+      "tamanho": "XG",
+      "qtd": 168,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB65344904",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pom-pom-classica-kit-4-pacotes-g-104",
+      "marca": "Pom Pom",
+      "linha": "Clássica (kit 4 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 104,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB25156392",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pom-pom-protek-kit-4-pacotes-xg-152",
+      "marca": "Pom Pom",
+      "linha": "Protek (kit 4 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 152,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB33262895",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "personal-baby-premium-kit-4-pacotes-xg-104",
+      "marca": "Personal Baby",
+      "linha": "Premium (kit 4 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 104,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB77525354",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "cremer-magic-care-kit-4-pacotes-xxg-160",
+      "marca": "Cremer",
+      "linha": "Magic Care (kit 4 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 160,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB49248335",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
     }
   ]
 }
