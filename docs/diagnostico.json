@@ -1,7 +1,123 @@
 {
-  "geradoEm": "2026-10-09T09:09:11.236Z",
+  "geradoEm": "2026-10-09T14:31:02.731Z",
   "tokenGerado": true,
   "consultas": [
+    {
+      "caminho": "/products/MLB17335903",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17335903/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB27946201",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB27946201/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
     {
       "caminho": "/products/MLB18392698",
       "comToken": true,
@@ -26,6 +142,2210 @@
     },
     {
       "caminho": "/products/MLB18392698/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB27946625",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB27946625/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17336419",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17336419/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19466197",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19466197/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB23414358",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB23414358/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB23414307",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB23414307/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB44226827",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB44226827/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB44160420",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB44160420/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB48608312",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB48608312/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB68581730",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB68581730/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19485102",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19485102/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19485095",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19485095/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19485104",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19485104/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB18715385",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB18715385/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19159742",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19159742/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19153445",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19153445/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19153447",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19153447/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19543873",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19543873/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19159746",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB19159746/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB24887894",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB24887894/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17336422",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17336422/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17336271",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17336271/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17336028",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB17336028/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB48644350",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB48644350/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB26817682",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB26817682/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB26817681",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB26817681/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB46420503",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB46420503/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB31641226",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB31641226/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB31764580",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB31764580/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB31737564",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB31737564/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB41255210",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB41255210/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB23943243",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB23943243/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB18392677",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB18392677/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB35961334",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB35961334/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB18715381",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB18715381/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB26521340",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB26521340/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB39918944",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB39918944/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB28017912",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB28017912/items?limit=20",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
+    },
+    {
+      "caminho": "/products/MLB23695767",
+      "comToken": true,
+      "status": 200,
+      "chaves": [
+        "id",
+        "catalog_product_id",
+        "status",
+        "pdp_types",
+        "domain_id",
+        "permalink",
+        "name",
+        "family_name",
+        "type",
+        "buy_box_winner",
+        "pickers",
+        "pictures",
+        "description_pictures",
+        "main_features",
+        "disclaimers"
+      ]
+    },
+    {
+      "caminho": "/products/MLB23695767/items?limit=20",
       "comToken": true,
       "status": 200,
       "chaves": [
