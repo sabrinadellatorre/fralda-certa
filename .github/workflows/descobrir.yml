@@ -1,0 +1,20 @@
+name: Descobrir fraldas
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  descobrir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Pesquisar catalogo
+        run: node scripts/descobrir.mjs
+        env:
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
+      - name: Salvar sugestoes
+        run: git config user.name robo-precos && git config user.email robo-precos@users.noreply.github.com && git add sugestoes.json && (git diff --cached --quiet || (git commit -m "Sugestoes de fraldas" && git pull --rebase && git push))
