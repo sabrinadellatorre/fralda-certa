@@ -99,36 +99,65 @@ async function api(caminho) {
   throw new Error(`Mercado Livre respondeu HTTP ${ultimo}`);
 }
 
-// Descobre o código do anúncio a partir do link colado.
+// Descobre os códigos do anúncio a partir do link colado (catálogo e/ou anúncio específico).
 export function lerLink(url) {
   const u = String(url || "");
-  const itemNoFiltro = u.match(/item_id[:=](MLB\d+)/i);
-  if (itemNoFiltro) return { tipo: "item", id: itemNoFiltro[1].toUpperCase() };
+  const r = {};
   const catalogo = u.match(/\/p\/(MLB\d+)/i);
-  if (catalogo) return { tipo: "catalogo", id: catalogo[1].toUpperCase() };
-  const item = u.match(/MLB-?(\d{6,})/i);
-  if (item) return { tipo: "item", id: "MLB" + item[1] };
-  return null;
+  if (catalogo) r.catalogo = catalogo[1].toUpperCase();
+  const itemNoFiltro = u.match(/item_id(?:%3A|[:=])(MLB\d+)/i);
+  if (itemNoFiltro) r.item = itemNoFiltro[1].toUpperCase();
+  else if (!catalogo) {
+    const item = u.match(/MLB-?(\d{6,})/i);
+    if (item) r.item = "MLB" + item[1];
+  }
+  return r.catalogo || r.item ? r : null;
+}
+
+function ativo(it) {
+  return it && it.status !== "paused" && it.status !== "closed" && typeof it.price === "number" && it.price > 0 &&
+    (it.available_quantity ?? 1) > 0;
+}
+
+// Para um produto de catálogo, lista as ofertas ativas, da mais barata para a mais cara.
+async function ofertasCatalogo(idCatalogo) {
+  const ids = [];
+  try {
+    const prod = await api(`/products/${idCatalogo}`);
+    if (prod.buy_box_winner?.item_id) ids.push(prod.buy_box_winner.item_id);
+  } catch (e) { /* segue para a lista de ofertas */ }
+  try {
+    const lista = await api(`/products/${idCatalogo}/items?limit=20`);
+    (lista.results || [])
+      .filter((o) => o.item_id && typeof o.price === "number" && o.price > 0)
+      .sort((x, y) => x.price - y.price)
+      .forEach((o) => ids.push(o.item_id));
+  } catch (e) { /* sem lista de ofertas */ }
+  return ids;
 }
 
 async function consultarML(p) {
   const alvo = lerLink(p.mercadolivre?.url);
   if (!alvo) throw new Error("link do Mercado Livre não reconhecido");
-  let item;
-  if (alvo.tipo === "catalogo") {
-    const prod = await api(`/products/${alvo.id}`);
-    const id = prod.buy_box_winner?.item_id;
-    if (!id) throw new Error("produto de catálogo sem vendedor ativo no momento");
-    item = await api(`/items/${id}`);
-  } else {
-    item = await api(`/items/${alvo.id}`);
+  const candidatos = [];
+  if (alvo.catalogo) candidatos.push(...(await ofertasCatalogo(alvo.catalogo)));
+  if (alvo.item) candidatos.push(alvo.item);
+  if (!candidatos.length) throw new Error("nenhuma oferta ativa encontrada para esse produto agora");
+
+  let item = null, ultimoErro = null;
+  for (const id of [...new Set(candidatos)].slice(0, 5)) {
+    try {
+      const it = await api(`/items/${id}`);
+      if (ativo(it)) { item = it; break; }
+    } catch (e) { ultimoErro = e; }
   }
-  const disponivel = item.status === "active" && (item.available_quantity ?? 1) > 0;
+  if (!item) throw ultimoErro || new Error("as ofertas desse produto estão pausadas ou sem estoque agora");
+
   const qtdTitulo = Number((String(item.title).match(/(\d{2,3})\s*(?:fraldas|unidades|un\b|und)/i) || [])[1]) || null;
   return {
-    preco: typeof item.price === "number" ? item.price : null,
+    preco: item.price,
     freteGratis: Boolean(item.shipping?.free_shipping),
-    disponivel,
+    disponivel: true,
     titulo: item.title,
     qtdNoTitulo: qtdTitulo,
   };
@@ -188,7 +217,8 @@ if (ok === 0 && falhas > 0) process.exit(1);
 
 // ---------- respostas falsas para o modo --teste ----------
 function respostaFalsa(caminho) {
-  if (caminho.startsWith("/products/")) return { buy_box_winner: { item_id: "MLB999" } };
+  if (/\/products\/[^/]+\/items/.test(caminho)) return { results: [{ item_id: "MLB777", price: 70 }] };
+  if (caminho.startsWith("/products/")) return {};
   const n = Number(caminho.replace(/\D/g, "").slice(-3)) || 1;
   return { title: `Fralda Teste ${70 + (n % 20)} Unidades`, price: 60 + (n % 30) + 0.9, status: "active", available_quantity: 5, shipping: { free_shipping: n % 2 === 0 } };
 }
