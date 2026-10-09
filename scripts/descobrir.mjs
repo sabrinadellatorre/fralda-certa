@@ -4,12 +4,13 @@ import { writeFile } from "node:fs/promises";
 
 const API = "https://api.mercadolibre.com";
 const TAMANHOS = ["RN", "P", "M", "G", "XG", "XXG"];
-const LINHAS = [
-  "Pampers Confort Sec", "Pampers Premium Care", "Pampers Pants",
-  "Huggies Tripla Proteção", "Huggies Supreme Care", "Huggies Natural Care", "Huggies Pants",
+const LINHAS = (process.env.LINHAS || [
+  "Pampers Confort Sec", "Pampers Premium Care", "Pampers Pants", "Pampers Supersec",
+  "Huggies Tripla Proteção", "Huggies Supreme Care", "Huggies Natural Care", "Huggies Roupinha", "Huggies Rápida Absorção",
   "MamyPoko Dia e Noite", "MamyPoko Pants",
-  "Turma da Mônica Baby", "Personal Baby",
-];
+  "Turma da Mônica Baby", "Turma da Mônica Shortinho", "Personal Baby",
+  "Babysec", "Babysec Premium", "Pom Pom", "Cremer", "Mili Love Care", "Sapeka", "Confort Baby", "Bigfral Kids",
+].join("|")).split("|");
 
 async function obterToken() {
   const r = await fetch(API + "/oauth/token", {
