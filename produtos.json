@@ -745,6 +745,564 @@
         "conferidoEm": "",
         "linkAfiliada": ""
       }
+    },
+    {
+      "id": "babysec-ultrasec-m-38",
+      "marca": "Babysec",
+      "linha": "Ultrasec",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 38,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB32644661",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "babysec-premium-m-68",
+      "marca": "Babysec",
+      "linha": "Premium",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 68,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB35435128",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "babysec-ultrasec-xg-12",
+      "marca": "Babysec",
+      "linha": "Ultrasec",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 12,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB41165267",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "babysec-ultrasec-shortinho-xxg-20",
+      "marca": "Babysec",
+      "linha": "Ultrasec Shortinho",
+      "tipo": "pants",
+      "tamanho": "XXG",
+      "qtd": 20,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB45399497",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "cremer-economica-p-36",
+      "marca": "Cremer",
+      "linha": "Econômica",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 36,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB41898472",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "cremer-economica-m-34",
+      "marca": "Cremer",
+      "linha": "Econômica",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 34,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB40345827",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "cremer-economica-g-30",
+      "marca": "Cremer",
+      "linha": "Econômica",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 30,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB41492638",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "cremer-economica-xg-24",
+      "marca": "Cremer",
+      "linha": "Econômica",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 24,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB41558378",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "cremer-magic-care-p-24",
+      "marca": "Cremer",
+      "linha": "Magic Care",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 24,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB69707100",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "cremer-magic-care-xg-52",
+      "marca": "Cremer",
+      "linha": "Magic Care",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 52,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB17336279",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mili-love-e-care-rn-18",
+      "marca": "Mili",
+      "linha": "Love & Care",
+      "tipo": "tradicional",
+      "tamanho": "RN",
+      "qtd": 18,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19939777",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mili-love-e-care-m-104",
+      "marca": "Mili",
+      "linha": "Love & Care",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 104,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB20199409",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mili-baby-giga-g-78",
+      "marca": "Mili",
+      "linha": "Baby Giga",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 78,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB32265910",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mili-love-e-care-pants-m-72",
+      "marca": "Mili",
+      "linha": "Love & Care Pants",
+      "tipo": "pants",
+      "tamanho": "M",
+      "qtd": 72,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB53591501",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mili-love-e-care-pants-g-60",
+      "marca": "Mili",
+      "linha": "Love & Care Pants",
+      "tipo": "pants",
+      "tamanho": "G",
+      "qtd": 60,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB53590324",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mili-love-e-care-pants-xg-48",
+      "marca": "Mili",
+      "linha": "Love & Care Pants",
+      "tipo": "pants",
+      "tamanho": "XG",
+      "qtd": 48,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB53591057",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mili-love-e-care-pants-xxg-48",
+      "marca": "Mili",
+      "linha": "Love & Care Pants",
+      "tipo": "pants",
+      "tamanho": "XXG",
+      "qtd": 48,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB53593857",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pom-pom-classica-p-30",
+      "marca": "Pom Pom",
+      "linha": "Clássica",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 30,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB18715384",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pom-pom-protek-rn-18",
+      "marca": "Pom Pom",
+      "linha": "Protek",
+      "tipo": "tradicional",
+      "tamanho": "RN",
+      "qtd": 18,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB17335763",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pom-pom-protek-p-54",
+      "marca": "Pom Pom",
+      "linha": "Protek",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 54,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB65395268",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pom-pom-protek-g-68",
+      "marca": "Pom Pom",
+      "linha": "Protek",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 68,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19516361",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pom-pom-protek-xxg-50",
+      "marca": "Pom Pom",
+      "linha": "Protek",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 50,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB68385470",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-supersec-m-52",
+      "marca": "Pampers",
+      "linha": "Supersec",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 52,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB77546824",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-supersec-g-80",
+      "marca": "Pampers",
+      "linha": "Supersec",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 80,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB29587881",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-rapida-absorcao-m-92",
+      "marca": "Huggies",
+      "linha": "Rápida Absorção",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 92,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB17336102",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-rapida-absorcao-roupinha-xxg-22",
+      "marca": "Huggies",
+      "linha": "Rápida Absorção Roupinha",
+      "tipo": "pants",
+      "tamanho": "XXG",
+      "qtd": 22,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB30925599",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-shortinho-g-22",
+      "marca": "Turma da Mônica",
+      "linha": "Shortinho",
+      "tipo": "pants",
+      "tamanho": "G",
+      "qtd": 22,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB67485820",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-shortinho-xg-20",
+      "marca": "Turma da Mônica",
+      "linha": "Shortinho",
+      "tipo": "pants",
+      "tamanho": "XG",
+      "qtd": 20,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB68405251",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-baby-premium-xxg-22",
+      "marca": "Turma da Mônica",
+      "linha": "Baby Premium",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 22,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB35954642",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "personal-baby-hiper-xxg-50",
+      "marca": "Personal Baby",
+      "linha": "Hiper",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 50,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB24572997",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "personal-baby-premium-pants-m-48",
+      "marca": "Personal Baby",
+      "linha": "Premium Pants",
+      "tipo": "pants",
+      "tamanho": "M",
+      "qtd": 48,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB21419669",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
     }
   ]
 }
