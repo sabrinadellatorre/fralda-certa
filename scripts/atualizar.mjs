@@ -181,6 +181,15 @@ for (const p of cfg.produtos) {
   if (p.mercadolivre?.url && /^https?:\/\//i.test(p.mercadolivre.url)) {
     try {
       const r = await consultarML(p);
+      // Link de afiliada apontando para a oferta escolhida (quando não há link manual).
+      if (!linkManualML && r.ofertaId && paramsML) {
+        try {
+          const base = new URL(p.mercadolivre.url);
+          base.search = ""; base.hash = "";
+          base.searchParams.set("pdp_filters", "item_id:" + r.ofertaId);
+          ml.linkAfiliada = montarLinkML(base.toString(), paramsML);
+        } catch { /* mantém o link já montado */ }
+      }
       ml = {
         ...ml, ...r,
         consultadoEm: agora,
