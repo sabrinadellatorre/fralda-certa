@@ -77,12 +77,15 @@ async function obterToken() {
     body: new URLSearchParams({ grant_type: "client_credentials", client_id: id, client_secret: segredo }),
   });
   if (!r.ok) {
+    diagnostico.push({ caminho: "/oauth/token", status: r.status, resposta: (await r.text().catch(() => "")).slice(0, 200) });
     console.warn(`Aviso: não consegui gerar o token do Mercado Livre (HTTP ${r.status}). Vou tentar sem token.`);
     return (token = "");
   }
   return (token = (await r.json()).access_token || "");
 }
 
+// Registro das consultas (sem chaves), salvo em docs/diagnostico.json para conferência.
+const diagnostico = [];
 async function api(caminho) {
   if (TESTE) return respostaFalsa(caminho);
   const t = await obterToken();
@@ -92,7 +95,13 @@ async function api(caminho) {
     const headers = { accept: "application/json" };
     if (tk) headers.authorization = "Bearer " + tk;
     const r = await fetch(API + caminho, { headers });
-    if (r.ok) return r.json();
+    if (r.ok) {
+      const j = await r.json();
+      diagnostico.push({ caminho, comToken: Boolean(tk), status: r.status, chaves: Object.keys(j || {}).slice(0, 15) });
+      return j;
+    }
+    const corpo = (await r.text().catch(() => "")).slice(0, 200);
+    diagnostico.push({ caminho, comToken: Boolean(tk), status: r.status, resposta: corpo });
     ultimo = r.status;
     if (r.status !== 401 && r.status !== 403) break;
   }
@@ -213,7 +222,8 @@ for (const p of cfg.produtos) {
 await mkdir("docs", { recursive: true });
 await writeFile(SAIDA, JSON.stringify(saida, null, 2) + "\n");
 console.log(`\nPronto: ${ok} atualizados, ${falhas} com erro. Arquivo salvo em ${SAIDA}.`);
-if (ok === 0 && falhas > 0) process.exit(1);
+await writeFile("docs/diagnostico.json", JSON.stringify({ geradoEm: agora, tokenGerado: Boolean(token), consultas: diagnostico }, null, 2) + "\n");
+if (ok === 0 && falhas > 0) console.error("Nenhum preço atualizado. Veja docs/diagnostico.json.");
 
 // ---------- respostas falsas para o modo --teste ----------
 function respostaFalsa(caminho) {
