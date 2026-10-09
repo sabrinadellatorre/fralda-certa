@@ -94,7 +94,11 @@ async function api(caminho) {
   for (const tk of tentativas) {
     const headers = { accept: "application/json" };
     if (tk) headers.authorization = "Bearer " + tk;
-    const r = await fetch(API + caminho, { headers });
+    let r = await fetch(API + caminho, { headers });
+    for (let n = 1; r.status === 429 && n <= 4; n++) {
+      await new Promise((ok) => setTimeout(ok, 3000 * n));
+      r = await fetch(API + caminho, { headers });
+    }
     if (r.ok) {
       const j = await r.json();
       diagnostico.push({ caminho, comToken: Boolean(tk), status: r.status, chaves: Object.keys(j || {}).slice(0, 15) });
@@ -172,6 +176,7 @@ const saida = { geradoEm: agora, site: cfg.site, produtos: [] };
 let ok = 0, falhas = 0;
 
 for (const p of cfg.produtos) {
+  if (!TESTE) await new Promise((ok) => setTimeout(ok, 800));
   const ant = antPorId[p.id]?.mercadolivre || {};
   // Link colado à mão tem prioridade; se não houver, o robô monta com o seu código.
   const linkManualML = /^https:\/\//i.test(p.mercadolivre?.linkAfiliada || "") ? p.mercadolivre.linkAfiliada : "";

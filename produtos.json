@@ -9,14 +9,734 @@
   },
   "produtos": [
     {
-      "id": "pampers-confortsec-g-60",
+      "id": "pampers-confort-sec-p-50",
+      "marca": "Pampers",
+      "linha": "Confort Sec",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 50,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB17335903",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-confort-sec-m-196",
+      "marca": "Pampers",
+      "linha": "Confort Sec",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 196,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB27946201",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-confort-sec-g-60",
       "marca": "Pampers",
       "linha": "Confort Sec",
       "tipo": "tradicional",
       "tamanho": "G",
       "qtd": 60,
       "mercadolivre": {
-        "url": "https://www.mercadolivre.com.br/fralda-pampers-confort-sec-tamanho-g-60-unidades/p/MLB18392698?pdp_filters=item_id:MLB4702124885",
+        "url": "https://www.mercadolivre.com.br/p/MLB18392698",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-confort-sec-g-168",
+      "marca": "Pampers",
+      "linha": "Confort Sec",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 168,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB27946625",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-confort-sec-xg-116",
+      "marca": "Pampers",
+      "linha": "Confort Sec",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 116,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB17336419",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-confort-sec-xxg-112",
+      "marca": "Pampers",
+      "linha": "Confort Sec",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 112,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19466197",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-p-40",
+      "marca": "Pampers",
+      "linha": "Premium Care",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 40,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB23414358",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-m-80",
+      "marca": "Pampers",
+      "linha": "Premium Care",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 80,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB23414307",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-g-136",
+      "marca": "Pampers",
+      "linha": "Premium Care",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 136,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB44226827",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-xg-120",
+      "marca": "Pampers",
+      "linha": "Premium Care",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 120,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB44160420",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-xxg-84",
+      "marca": "Pampers",
+      "linha": "Premium Care",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 84,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB48608312",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-pants-ajuste-total-p-32",
+      "marca": "Pampers",
+      "linha": "Pants Ajuste Total",
+      "tipo": "pants",
+      "tamanho": "P",
+      "qtd": 32,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB68581730",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-pants-ajuste-total-m-112",
+      "marca": "Pampers",
+      "linha": "Pants Ajuste Total",
+      "tipo": "pants",
+      "tamanho": "M",
+      "qtd": 112,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19485102",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-pants-ajuste-total-g-94",
+      "marca": "Pampers",
+      "linha": "Pants Ajuste Total",
+      "tipo": "pants",
+      "tamanho": "G",
+      "qtd": 94,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19485095",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-pants-ajuste-total-xg-86",
+      "marca": "Pampers",
+      "linha": "Pants Ajuste Total",
+      "tipo": "pants",
+      "tamanho": "XG",
+      "qtd": 86,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19485104",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-pants-ajuste-total-xxg-60",
+      "marca": "Pampers",
+      "linha": "Pants Ajuste Total",
+      "tipo": "pants",
+      "tamanho": "XXG",
+      "qtd": 60,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB18715385",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-pants-m-124",
+      "marca": "Pampers",
+      "linha": "Premium Care Pants",
+      "tipo": "pants",
+      "tamanho": "M",
+      "qtd": 124,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19159742",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-pants-g-112",
+      "marca": "Pampers",
+      "linha": "Premium Care Pants",
+      "tipo": "pants",
+      "tamanho": "G",
+      "qtd": 112,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19153445",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-pants-xg-96",
+      "marca": "Pampers",
+      "linha": "Premium Care Pants",
+      "tipo": "pants",
+      "tamanho": "XG",
+      "qtd": 96,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19153447",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "pampers-premium-care-pants-xxg-60",
+      "marca": "Pampers",
+      "linha": "Premium Care Pants",
+      "tipo": "pants",
+      "tamanho": "XXG",
+      "qtd": 60,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19543873",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-tripla-protecao-p-32",
+      "marca": "Huggies",
+      "linha": "Tripla Proteção",
+      "tipo": "tradicional",
+      "tamanho": "P",
+      "qtd": 32,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB19159746",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-tripla-protecao-m-92",
+      "marca": "Huggies",
+      "linha": "Tripla Proteção",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 92,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB24887894",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-tripla-protecao-g-36",
+      "marca": "Huggies",
+      "linha": "Tripla Proteção",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 36,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB17336422",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-tripla-protecao-xg-32",
+      "marca": "Huggies",
+      "linha": "Tripla Proteção",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 32,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB17336271",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-rapida-absorcao-xxg-66",
+      "marca": "Huggies",
+      "linha": "Rápida Absorção",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 66,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB17336028",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-supreme-care-m-104",
+      "marca": "Huggies",
+      "linha": "Supreme Care",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 104,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB48644350",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-supreme-care-xg-56",
+      "marca": "Huggies",
+      "linha": "Supreme Care",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 56,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB26817682",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-supreme-care-xxg-54",
+      "marca": "Huggies",
+      "linha": "Supreme Care",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 54,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB26817681",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "huggies-supreme-care-roupinha-m-22",
+      "marca": "Huggies",
+      "linha": "Supreme Care Roupinha",
+      "tipo": "pants",
+      "tamanho": "M",
+      "qtd": 22,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB46420503",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mamypoko-dia-e-noite-calca-m-68",
+      "marca": "MamyPoko",
+      "linha": "Dia & Noite Calça",
+      "tipo": "pants",
+      "tamanho": "M",
+      "qtd": 68,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB31641226",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mamypoko-giga-calca-xg-52",
+      "marca": "MamyPoko",
+      "linha": "Giga Calça",
+      "tipo": "pants",
+      "tamanho": "XG",
+      "qtd": 52,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB31764580",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "mamypoko-dia-e-noite-calca-xxg-44",
+      "marca": "MamyPoko",
+      "linha": "Dia & Noite Calça",
+      "tipo": "pants",
+      "tamanho": "XXG",
+      "qtd": 44,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB31737564",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-baby-kit-2-pacotes-rn-72",
+      "marca": "Turma da Mônica",
+      "linha": "Baby (kit 2 pacotes)",
+      "tipo": "tradicional",
+      "tamanho": "RN",
+      "qtd": 72,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB41255210",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-baby-m-28",
+      "marca": "Turma da Mônica",
+      "linha": "Baby",
+      "tipo": "tradicional",
+      "tamanho": "M",
+      "qtd": 28,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB23943243",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-baby-g-44",
+      "marca": "Turma da Mônica",
+      "linha": "Baby",
+      "tipo": "tradicional",
+      "tamanho": "G",
+      "qtd": 44,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB18392677",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-baby-premium-xg-26",
+      "marca": "Turma da Mônica",
+      "linha": "Baby Premium",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 26,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB35961334",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "turma-da-monica-baby-xxg-16",
+      "marca": "Turma da Mônica",
+      "linha": "Baby",
+      "tipo": "tradicional",
+      "tamanho": "XXG",
+      "qtd": 16,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB18715381",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "personal-baby-premium-protection-rn-40",
+      "marca": "Personal Baby",
+      "linha": "Premium Protection",
+      "tipo": "tradicional",
+      "tamanho": "RN",
+      "qtd": 40,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB26521340",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "personal-baby-protect-e-sec-xg-66",
+      "marca": "Personal Baby",
+      "linha": "Protect & Sec",
+      "tipo": "tradicional",
+      "tamanho": "XG",
+      "qtd": 66,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB39918944",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "personal-baby-total-protect-pants-m-52",
+      "marca": "Personal Baby",
+      "linha": "Total Protect Pants",
+      "tipo": "pants",
+      "tamanho": "M",
+      "qtd": 52,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB28017912",
+        "linkAfiliada": ""
+      },
+      "amazon": {
+        "url": "",
+        "preco": null,
+        "conferidoEm": "",
+        "linkAfiliada": ""
+      }
+    },
+    {
+      "id": "personal-baby-total-protect-pants-xxg-36",
+      "marca": "Personal Baby",
+      "linha": "Total Protect Pants",
+      "tipo": "pants",
+      "tamanho": "XXG",
+      "qtd": 36,
+      "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/p/MLB23695767",
         "linkAfiliada": ""
       },
       "amazon": {
