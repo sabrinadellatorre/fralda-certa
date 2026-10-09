@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-09T03:49:01.347Z",
+  "geradoEm": "2026-10-09T03:49:47.101Z",
   "site": {
     "titulo": "Fralda Certa",
     "handle": "@seuperfil",
@@ -18,12 +18,14 @@
       "qtd": 60,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/fralda-pampers-confort-sec-tamanho-g-60-unidades/p/MLB18392698?pdp_filters=item_id%3AMLB4702124885&matt_word=basa5967489&matt_tool=94667809",
-        "preco": null,
-        "consultadoEm": "",
-        "disponivel": false,
+        "preco": 93.8,
         "freteGratis": false,
-        "precoAnterior": null,
-        "erro": true
+        "disponivel": true,
+        "titulo": "Fralda Pampers Confort Sec Tamanho G, 60 Unidades",
+        "qtdNoTitulo": 60,
+        "ofertaId": "MLB4702124885",
+        "consultadoEm": "2026-10-09T03:49:47.101Z",
+        "precoAnterior": null
       },
       "amazon": {
         "preco": null,

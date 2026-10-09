@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-09T03:49:01.347Z",
+  "geradoEm": "2026-10-09T03:49:47.101Z",
   "tokenGerado": true,
   "consultas": [
     {
@@ -35,64 +35,30 @@
       ]
     },
     {
-      "caminho": "/items/MLB4702124885",
-      "comToken": true,
-      "status": 403,
-      "resposta": "{\"message\":\"Access to the requested resource is forbidden\",\"error\":\"access_denied\",\"status\":403,\"cause\":null}"
-    },
-    {
-      "caminho": "/items/MLB4702124885",
-      "comToken": false,
-      "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
-    },
-    {
-      "caminho": "/items/MLB7478987248",
-      "comToken": true,
-      "status": 403,
-      "resposta": "{\"message\":\"Access to the requested resource is forbidden\",\"error\":\"access_denied\",\"status\":403,\"cause\":null}"
-    },
-    {
-      "caminho": "/items/MLB7478987248",
-      "comToken": false,
-      "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
-    },
-    {
-      "caminho": "/items/MLB3633966625",
-      "comToken": true,
-      "status": 403,
-      "resposta": "{\"message\":\"Access to the requested resource is forbidden\",\"error\":\"access_denied\",\"status\":403,\"cause\":null}"
-    },
-    {
-      "caminho": "/items/MLB3633966625",
-      "comToken": false,
-      "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
-    },
-    {
-      "caminho": "/items/MLB4129406003",
-      "comToken": true,
-      "status": 403,
-      "resposta": "{\"message\":\"Access to the requested resource is forbidden\",\"error\":\"access_denied\",\"status\":403,\"cause\":null}"
-    },
-    {
-      "caminho": "/items/MLB4129406003",
-      "comToken": false,
-      "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
-    },
-    {
-      "caminho": "/items/MLB3483079710",
-      "comToken": true,
-      "status": 403,
-      "resposta": "{\"message\":\"Access to the requested resource is forbidden\",\"error\":\"access_denied\",\"status\":403,\"cause\":null}"
-    },
-    {
-      "caminho": "/items/MLB3483079710",
-      "comToken": false,
-      "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
     }
   ]
 }
