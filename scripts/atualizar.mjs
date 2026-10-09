@@ -123,52 +123,46 @@ export function lerLink(url) {
   return r.catalogo || r.item ? r : null;
 }
 
-function ativo(it) {
-  return it && it.status !== "paused" && it.status !== "closed" && typeof it.price === "number" && it.price > 0 &&
-    (it.available_quantity ?? 1) > 0;
-}
-
-// Para um produto de catálogo, lista as ofertas ativas, da mais barata para a mais cara.
-async function ofertasCatalogo(idCatalogo) {
-  const ids = [];
-  try {
-    const prod = await api(`/products/${idCatalogo}`);
-    if (prod.buy_box_winner?.item_id) ids.push(prod.buy_box_winner.item_id);
-  } catch (e) { /* segue para a lista de ofertas */ }
-  try {
-    const lista = await api(`/products/${idCatalogo}/items?limit=20`);
-    (lista.results || [])
-      .filter((o) => o.item_id && typeof o.price === "number" && o.price > 0)
-      .sort((x, y) => x.price - y.price)
-      .forEach((o) => ids.push(o.item_id));
-  } catch (e) { /* sem lista de ofertas */ }
-  return ids;
+// O Mercado Livre não libera a consulta direta de anúncios (/items) para aplicativos de terceiros.
+// Por isso o preço vem das ofertas do produto de catálogo (/products/{id} e /products/{id}/items).
+function precoDe(o) {
+  const p = o?.price ?? o?.prices?.price ?? null;
+  return typeof p === "number" && p > 0 ? p : null;
 }
 
 async function consultarML(p) {
   const alvo = lerLink(p.mercadolivre?.url);
   if (!alvo) throw new Error("link do Mercado Livre não reconhecido");
-  const candidatos = [];
-  if (alvo.catalogo) candidatos.push(...(await ofertasCatalogo(alvo.catalogo)));
-  if (alvo.item) candidatos.push(alvo.item);
-  if (!candidatos.length) throw new Error("nenhuma oferta ativa encontrada para esse produto agora");
-
-  let item = null, ultimoErro = null;
-  for (const id of [...new Set(candidatos)].slice(0, 5)) {
-    try {
-      const it = await api(`/items/${id}`);
-      if (ativo(it)) { item = it; break; }
-    } catch (e) { ultimoErro = e; }
+  if (!alvo.catalogo) {
+    throw new Error("use o link da página de catálogo do produto (o endereço que tem /p/MLB...). Anúncios avulsos não podem ser consultados");
   }
-  if (!item) throw ultimoErro || new Error("as ofertas desse produto estão pausadas ou sem estoque agora");
+  const ofertas = [];
+  let nome = "";
+  try {
+    const prod = await api(`/products/${alvo.catalogo}`);
+    nome = prod.name || "";
+    if (prod.buy_box_winner && precoDe(prod.buy_box_winner)) ofertas.push({ ...prod.buy_box_winner, destaque: true });
+  } catch (e) { /* segue para a lista de ofertas */ }
+  try {
+    const lista = await api(`/products/${alvo.catalogo}/items?limit=20`);
+    const res = lista.results || [];
+    if (res[0]) diagnostico.push({ exemploOferta: Object.keys(res[0]).slice(0, 25) });
+    ofertas.push(...res);
+  } catch (e) { /* sem lista de ofertas */ }
 
-  const qtdTitulo = Number((String(item.title).match(/(\d{2,3})\s*(?:fraldas|unidades|un\b|und)/i) || [])[1]) || null;
+  const validas = ofertas.filter((o) => precoDe(o) && (o.condition ? o.condition === "new" : true));
+  if (!validas.length) throw new Error("nenhuma oferta ativa encontrada para esse produto agora");
+  // A oferta nova mais barata do produto.
+  const escolhida = validas.slice().sort((x, y) => precoDe(x) - precoDe(y))[0];
+
+  const qtdTitulo = Number((String(nome).match(/(\d{2,3})\s*(?:fraldas|unidades|un\b|und)/i) || [])[1]) || null;
   return {
-    preco: item.price,
-    freteGratis: Boolean(item.shipping?.free_shipping),
+    preco: precoDe(escolhida),
+    freteGratis: Boolean(escolhida.shipping?.free_shipping),
     disponivel: true,
-    titulo: item.title,
+    titulo: nome,
     qtdNoTitulo: qtdTitulo,
+    ofertaId: escolhida.item_id || "",
   };
 }
 
@@ -227,8 +221,8 @@ if (ok === 0 && falhas > 0) console.error("Nenhum preço atualizado. Veja docs/d
 
 // ---------- respostas falsas para o modo --teste ----------
 function respostaFalsa(caminho) {
-  if (/\/products\/[^/]+\/items/.test(caminho)) return { results: [{ item_id: "MLB777", price: 70 }] };
-  if (caminho.startsWith("/products/")) return {};
+  if (/\/products\/[^/]+\/items/.test(caminho)) return { results: [{ item_id: "MLB777", price: 79.9, condition: "new", shipping: { free_shipping: true } }, { item_id: "MLB4702124885", price: 84.9, condition: "new" }] };
+  if (caminho.startsWith("/products/")) return { name: "Fralda Pampers Confort Sec G 60 Unidades", buy_box_winner: null };
   const n = Number(caminho.replace(/\D/g, "").slice(-3)) || 1;
   return { title: `Fralda Teste ${70 + (n % 20)} Unidades`, price: 60 + (n % 30) + 0.9, status: "active", available_quantity: 5, shipping: { free_shipping: n % 2 === 0 } };
 }
