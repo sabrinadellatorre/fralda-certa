@@ -1,0 +1,5341 @@
+{
+  "geradoEm": "2026-10-09T14:22:57.059Z",
+  "produtos": [
+    {
+      "id": "MLB33581064",
+      "nome": "Fralda Pampers Confort Sec G 38 Unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 120
+    },
+    {
+      "id": "MLB18392568",
+      "nome": "Fralda Pampers Confort Sec G com 38 unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24981190",
+      "nome": "Fralda Pampers Confort Sec Mega G Com 38 Unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Mega"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB17335903",
+      "nome": "Fralda Pampers Confort Sec P 50 unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "50"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 20,
+      "menorPreco": 56
+    },
+    {
+      "id": "MLB17335933",
+      "nome": "Fralda Pampers Confort Sec XXG 60 Unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "60"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XXG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 179.9
+    },
+    {
+      "id": "MLB17335840",
+      "nome": "Fralda Pampers Confort Sec XG 62 unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "62"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 5,
+      "menorPreco": 110.06
+    },
+    {
+      "id": "MLB17336433",
+      "nome": "Fralda Pampers Confort Sec M 44 unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "44"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 10,
+      "menorPreco": 57.99
+    },
+    {
+      "id": "MLB28191662",
+      "nome": "Fralda Pampers Confort Sec P - 50 Unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "50"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 12,
+      "menorPreco": 82.99
+    },
+    {
+      "id": "MLB17335662",
+      "nome": "Fralda Pampers Confort Sec G 38 unidades",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "38"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 8,
+      "menorPreco": 74.99
+    },
+    {
+      "id": "MLB35369029",
+      "nome": "Fralda Pampers Confort Sec Xxxg Com 44un",
+      "busca": "fralda Pampers Confort Sec RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "44"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XXXG"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 20,
+      "menorPreco": 93.9
+    },
+    {
+      "id": "MLB70413607",
+      "nome": "Fralda Pampers Confort Sec P Com 100 Unidades P Sem Gênero",
+      "busca": "fralda Pampers Confort Sec P",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "50"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB65227194",
+      "nome": "Fralda Pampers Confort Sec Tamanho M 80 Unidades",
+      "busca": "fralda Pampers Confort Sec M",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Pampers Confort"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "80"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB27946201",
+      "nome": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
+      "busca": "fralda Pampers Confort Sec M",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "196"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ]
+      ],
+      "ofertas": 20,
+      "menorPreco": 213.75
+    },
+    {
+      "id": "MLB17336201",
+      "nome": "Fralda Pampers Confort Sec Tamanho M 80 unidades",
+      "busca": "fralda Pampers Confort Sec M",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "80"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 318.16
+    },
+    {
+      "id": "MLB65274334",
+      "nome": "Fralda Pampers Confort Sec M 112 Unidades",
+      "busca": "fralda Pampers Confort Sec M",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Pampers Confort"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "112"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB27601878",
+      "nome": "Fralda Pampers Confort Sec M 112 Unidades",
+      "busca": "fralda Pampers Confort Sec M",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Confort Sec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "112"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 11,
+      "menorPreco": 142
+    },
+    {
+      "id": "MLB18458180",
+      "nome": "Fralda Pampers Jumbo Premium Care XG com 60 unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB23414299",
+      "nome": "Fralda Pampers Premium Care Tamanho G 68 Unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "68"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 7,
+      "menorPreco": 194
+    },
+    {
+      "id": "MLB23414358",
+      "nome": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "40"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "40"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 15,
+      "menorPreco": 54.89
+    },
+    {
+      "id": "MLB23414307",
+      "nome": "Fralda Pampers Premium Care Tamanho M 80 Unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "80"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 13,
+      "menorPreco": 150
+    },
+    {
+      "id": "MLB19770085",
+      "nome": "Fralda Pampers Premium Care Pants XG, 64 Unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pampers Premium Care Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "64"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 19,
+      "menorPreco": 125.12
+    },
+    {
+      "id": "MLB44017542",
+      "nome": "Fralda Pampers Recem Nasc Rn 2 A 4kg 20un",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care Recém-Nascido"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "20"
+        ],
+        [
+          "DIAPER_SIZE",
+          "RN"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB19153445",
+      "nome": "Fralda Pampers Premium Care Pants Tamanho G 112 Unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pampers Premium Care Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "112"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 7,
+      "menorPreco": 183.37
+    },
+    {
+      "id": "MLB19159742",
+      "nome": "Fralda Pampers Premium Care Pants Tamanho M 124 Unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pampers Premium Care Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "124"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 16,
+      "menorPreco": 202.16
+    },
+    {
+      "id": "MLB23414305",
+      "nome": "Fralda Pampers Premium Care Tamanho XXG 56 Unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "56"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 5,
+      "menorPreco": 112.37
+    },
+    {
+      "id": "MLB48608314",
+      "nome": "Fralda Pampers Premium Care Tamanho XG 88 Unidades",
+      "busca": "fralda Pampers Premium Care RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "88"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB19153447",
+      "nome": "Fralda Pampers Premium Care Pants Tamanho XG 96 Unidades",
+      "busca": "fralda Pampers Premium Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pampers Premium Care Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "96"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 11,
+      "menorPreco": 153
+    },
+    {
+      "id": "MLB44160420",
+      "nome": "Fralda Pampers Premium Care Tamanho XG, 120 Unidades",
+      "busca": "fralda Pampers Premium Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "120"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 5,
+      "menorPreco": 236.15
+    },
+    {
+      "id": "MLB23787151",
+      "nome": "Fralda Pampers Premium Care Tamanho XG 60 Unidades",
+      "busca": "fralda Pampers Premium Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "60"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "60"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 8,
+      "menorPreco": 127.36
+    },
+    {
+      "id": "MLB17335944",
+      "nome": "Fralda Pampers Supersec Xg 40 Unidades",
+      "busca": "fralda Pampers Premium Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Supersec"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "40"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Supersec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25251863",
+      "nome": "Kit Fralda Pampers Premium Care - 4 Pacotes Gênero Sem Gênero Tamanho Extra Grande (xg)",
+      "busca": "fralda Pampers Premium Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB48608312",
+      "nome": "Fralda Pampers Premium Care Tamanho XXG 84 Unidades",
+      "busca": "fralda Pampers Premium Care XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "84"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ]
+      ],
+      "ofertas": 7,
+      "menorPreco": 168.6
+    },
+    {
+      "id": "MLB19159743",
+      "nome": "Fralda Pampers Premium Care Pants Tamanho XXG 90 Unidades",
+      "busca": "fralda Pampers Premium Care XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pampers Premium Care Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "90"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 11,
+      "menorPreco": 184.9
+    },
+    {
+      "id": "MLB43291893",
+      "nome": "Fralda Pampers Premium Care Tamanho XXG 112 Unidades",
+      "busca": "fralda Pampers Premium Care XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "112"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ]
+      ],
+      "ofertas": 3,
+      "menorPreco": 369
+    },
+    {
+      "id": "MLB19543873",
+      "nome": "Fralda Pampers Pants Premium Care XXG 60 unidades",
+      "busca": "fralda Pampers Premium Care XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pampers Premium Care Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "60"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Cintura elástica de 360°"
+        ]
+      ],
+      "ofertas": 18,
+      "menorPreco": 120.35
+    },
+    {
+      "id": "MLB65827331",
+      "nome": "Fralda Pampers Premium Care Pants Xxg, 64 Unidades Extra Extra Grande (xxg) Sem Gênero",
+      "busca": "fralda Pampers Premium Care XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Premium Care Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "64"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Tecnologia Premium Care com canais de ar e gel superabsorvente"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB21853434",
+      "nome": "Fralda Pampers Pants Ajuste Total Xxg Com 120un",
+      "busca": "fralda Pampers Premium Care XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Fralda"
+        ]
+      ],
+      "ofertas": 3,
+      "menorPreco": 195
+    },
+    {
+      "id": "MLB25156404",
+      "nome": "Fralda Pampers Confort Bag Xxg - 112 Unidades",
+      "busca": "fralda Pampers Premium Care XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Fralda"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB18715385",
+      "nome": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
+      "busca": "fralda Pampers Premium Care XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants Ajuste Total"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "60"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 20,
+      "menorPreco": 119.9
+    },
+    {
+      "id": "MLB44422333",
+      "nome": "Fralda Pampers Pants Ajuste Total Xxxg Com 24un",
+      "busca": "fralda Pampers Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants Ajuste Total"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "24"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB68581730",
+      "nome": "Fralda Pampers Pants Ajuste Total Descartável Pequeno (p) Sem Gênero",
+      "busca": "fralda Pampers Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "32"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Pequeno (P)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Cintura elástica 360o e Gel Mágico"
+        ]
+      ],
+      "ofertas": 6,
+      "menorPreco": 39
+    },
+    {
+      "id": "MLB19485104",
+      "nome": "Fralda Pampers Pants Ajuste Total XG, 86 Unidades",
+      "busca": "fralda Pampers Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "86"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Cintura elástica 360 e Gel Mágico"
+        ]
+      ],
+      "ofertas": 15,
+      "menorPreco": 149.9
+    },
+    {
+      "id": "MLB65288527",
+      "nome": "Fralda Pampers Pants Ajuste Total G 72 Unidades",
+      "busca": "fralda Pampers Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Pampers Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "72"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB19485102",
+      "nome": "Fralda Pampers Pants Ajuste Total M 112 Unidades",
+      "busca": "fralda Pampers Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "112"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "112"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Cintura elástica 360 e Gel Mágico"
+        ]
+      ],
+      "ofertas": 11,
+      "menorPreco": 140
+    },
+    {
+      "id": "MLB16010411",
+      "nome": "Fralda Pampers Pants Ajuste Total XXG pacote 12 unidades",
+      "busca": "fralda Pampers Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants Ajuste Total"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "12"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 53.11
+    },
+    {
+      "id": "MLB45947717",
+      "nome": "Fralda Pampers Pants Ajuste Total XXXG 54 Unidades",
+      "busca": "fralda Pampers Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants Ajuste Total"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "54"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XXXG"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ]
+      ],
+      "ofertas": 9,
+      "menorPreco": 128.99
+    },
+    {
+      "id": "MLB44422541",
+      "nome": "Fralda Pampers Pants Ajuste Total P Com 46un Sem Gênero",
+      "busca": "fralda Pampers Pants P",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "46"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Pequeno (P)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Pants"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB17335835",
+      "nome": "Fralda Pampers Pants Ajuste Total Hiper G 52 Unidades",
+      "busca": "fralda Pampers Pants G",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "52"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Cintura elástica 360 e Gel Mágico"
+        ]
+      ],
+      "ofertas": 4,
+      "menorPreco": 110.9
+    },
+    {
+      "id": "MLB19485095",
+      "nome": "Fralda Pampers Pants Ajuste Total Tamanho G, 94 Unidades",
+      "busca": "fralda Pampers Pants G",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "LINE",
+          "Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "94"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Cintura elástica 360 e Gel Mágico"
+        ]
+      ],
+      "ofertas": 12,
+      "menorPreco": 151.4
+    },
+    {
+      "id": "MLB65886711",
+      "nome": "Fralda Pampers Pants Ajuste Total Mega Tamanho G 36 Unidades",
+      "busca": "fralda Pampers Pants G",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Pampers Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "36"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25156303",
+      "nome": "Fralda Pampers Basic G Kit - 92 Unidades",
+      "busca": "fralda Pampers Pants G",
+      "atributos": [
+        [
+          "BRAND",
+          "Pampers"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24887894",
+      "nome": "Fralda Huggies Tripla Proteção M - 92 Fraldas",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "92"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 79
+    },
+    {
+      "id": "MLB25156307",
+      "nome": "Fralda Huggies Tripla Proteção G Com 36 Unidades",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Tripla Proteção"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25156294",
+      "nome": "Kit Fralda Huggies Tripla Proteção G 156 Unidades",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Tripla Proteção"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 329.65
+    },
+    {
+      "id": "MLB38379515",
+      "nome": "Fralda Huggies Tripla Proteção Jumbinho",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Tripla Proteção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "18"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ZeroFeel"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB17336422",
+      "nome": "Fralda Huggies Tripla Proteção G 36 unidades",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Rápida absorção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "36"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ]
+      ],
+      "ofertas": 8,
+      "menorPreco": 26
+    },
+    {
+      "id": "MLB17336271",
+      "nome": "Fralda Huggies Tripla Proteção Xg 32 Unidades",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Rápida absorção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "32"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "32"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ]
+      ],
+      "ofertas": 3,
+      "menorPreco": 48
+    },
+    {
+      "id": "MLB65388794",
+      "nome": "Fralda Huggies Tripla Proteção G 36 Unidades",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Huggies Tripla"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "36"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Xtra Protect"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB36055626",
+      "nome": "Fralda Huggies Tripla Proteção G - 52 Unidades",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Tripla Proteção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "52"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 69.99
+    },
+    {
+      "id": "MLB35312084",
+      "nome": "Fralda Huggies Tripla Proteção M - Absorção Extra",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Tripla Proteção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "58"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB19159746",
+      "nome": "Fralda Huggies Tripla Proteção P 32 unidades",
+      "busca": "fralda Huggies Tripla Proteção RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Rápida absorção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "32"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ]
+      ],
+      "ofertas": 3,
+      "menorPreco": 29
+    },
+    {
+      "id": "MLB36350579",
+      "nome": "Fralda Huggies Tripla Proteção Hiper G 78 Unidades",
+      "busca": "fralda Huggies Tripla Proteção G",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ZeroFeel"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 109.77
+    },
+    {
+      "id": "MLB69134186",
+      "nome": "Fralda Huggies Tripla Proteção G 36 Unidades",
+      "busca": "fralda Huggies Tripla Proteção G",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Huggies Tripla"
+        ],
+        [
+          "LINE",
+          "Tripla Proteção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "36"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB36671536",
+      "nome": "Fralda Huggies Tripla Proteção Xg C/32 Uni",
+      "busca": "fralda Huggies Tripla Proteção XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "12"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ZeroFeel"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB55414882",
+      "nome": "Fralda Huggies Turma Da Mônica Tripla Proteção Xg-42 Unidade",
+      "busca": "fralda Huggies Tripla Proteção XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "42"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Triple Sec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB66443973",
+      "nome": "Fralda Huggies Tripla Proteção Xg 32 Un - Máx. Conforto",
+      "busca": "fralda Huggies Tripla Proteção XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Huggies Tripla"
+        ],
+        [
+          "LINE",
+          "Xtra-Protect"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "32"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Japonesa"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24292055",
+      "nome": "Fralda Huggies Supreme Care G - 64 Unidades",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25571093",
+      "nome": "Fralda Huggies Supreme M - 80 Unidades",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "80"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB46420503",
+      "nome": "Fralda Huggies Roupinha Supreme Care M 22 Unidades",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "22"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 32
+    },
+    {
+      "id": "MLB65611263",
+      "nome": "Fralda Huggies Supreme Care Roupinha M - 72 Fraldas",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Huggies Supreme"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "72"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25156486",
+      "nome": "Fralda Huggies Supreme Care Xg C/52 Unidades",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25156252",
+      "nome": "Fralda Huggies Supreme Rn - 36 Unidades",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme"
+        ],
+        [
+          "DIAPER_SIZE",
+          "RN"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB69135510",
+      "nome": "Fralda Huggies Supreme Care Roupinha M - 72 Fraldas",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Huggies Supreme"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "72"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB47383856",
+      "nome": "Fralda Huggies Supreme Care Xxxg 70 Unidades Gênero Sem gênero",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "70"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XXXG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Xtra-Flex"
+        ]
+      ],
+      "ofertas": 5,
+      "menorPreco": 167.94
+    },
+    {
+      "id": "MLB48644350",
+      "nome": "Fralda Huggies Supreme Care M 104 Unidades Gênero Sem gênero Tamanho Médio (M)",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "104"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 140
+    },
+    {
+      "id": "MLB79207429",
+      "nome": "Fralda Huggies Supreme Care - P/m/g/xg/xxg Tamanho M",
+      "busca": "fralda Huggies Supreme Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "30"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Xtra-Flex"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 80
+    },
+    {
+      "id": "MLB79295613",
+      "nome": "Fralda Huggies Supreme Care - P/m/g/xg/xxg Tamanho G",
+      "busca": "fralda Huggies Supreme Care G",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "30"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Xtra-Flex"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB46162876",
+      "nome": "Kit Fralda Huggies Roupinha Supreme Care G 120 Unidades",
+      "busca": "fralda Huggies Supreme Care G",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care Roupinha"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "60"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Un"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB79312144",
+      "nome": "Fralda Huggies Supreme Care - P/m/g/xg/xxg Tamanho XG",
+      "busca": "fralda Huggies Supreme Care G",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "30"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Xtra-Flex"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB57375821",
+      "nome": "Fralda Huggies Supreme Care Xg 82 Unidades Extra Grande (xg) Sem Gênero",
+      "busca": "fralda Huggies Supreme Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "82"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 135.99
+    },
+    {
+      "id": "MLB46647641",
+      "nome": "Fralda Huggies Supreme Care Roupinha Xg Max 80 Uni Gênero Sem gênero",
+      "busca": "fralda Huggies Supreme Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "80"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25156250",
+      "nome": "Fralda Huggies Jumbinho Xg - 28 Unidades",
+      "busca": "fralda Huggies Supreme Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Jumbinho"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25251874",
+      "nome": "Fralda Huggies Roupinha Xg - 14 Unidades",
+      "busca": "fralda Huggies Supreme Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB26817682",
+      "nome": "Fralda Huggies Supreme Care Xg C/56 Gênero Sem Gênero Tamanho Extra Grande (xg)",
+      "busca": "fralda Huggies Supreme Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "56"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Max Proteção"
+        ]
+      ],
+      "ofertas": 16,
+      "menorPreco": 85.9
+    },
+    {
+      "id": "MLB78715542",
+      "nome": "Fralda Huggies Natural Care P Pequeno (p) Sem Gênero",
+      "busca": "fralda Huggies Natural Care P",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Natural Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "2"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "36"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Pequeno (P)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Natural Care"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 49
+    },
+    {
+      "id": "MLB25571092",
+      "nome": "Fralda Huggies Jumbinho P - 48 Unidades",
+      "busca": "fralda Huggies Natural Care P",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Jumbinho"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB27143235",
+      "nome": "Fralda Huggies Jumbo P - 72 Unidades",
+      "busca": "fralda Huggies Natural Care P",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Jumbo"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB17336147",
+      "nome": "Fralda Huggies Natural Care P - 36 Fraldas Gênero Sem gênero Tamanho Pequeno (P)",
+      "busca": "fralda Huggies Natural Care P",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Natural Care Recém-Nascido"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "36"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Xtra-Flex"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24318393",
+      "nome": "Fralda Huggies Meguinha P Com 46 Unidades",
+      "busca": "fralda Huggies Natural Care P",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Meguinha"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB64088268",
+      "nome": "Fralda Huggies Natural Care Mega R/n 34un",
+      "busca": "fralda Huggies Natural Care P",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Natural Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "34"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Recém-nascido (RN)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB79649662",
+      "nome": "Kit Fralda Huggies Natural Care Rn - 102 Fraldas Rn Sem Gênero",
+      "busca": "fralda Huggies Natural Care P",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Natural Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "34"
+        ],
+        [
+          "DIAPER_SIZE",
+          "RN"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB36111111",
+      "nome": "Fralda Huggies Supreme Care Jumbo R/n 18un",
+      "busca": "fralda Huggies Natural Care P",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Jumbo"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "40"
+        ],
+        [
+          "DIAPER_SIZE",
+          "P"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ZeroFeel"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24981182",
+      "nome": "Fralda Huggies Roupinha M - 22 Unidades",
+      "busca": "fralda Huggies Natural Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25251850",
+      "nome": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "busca": "fralda Huggies Natural Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Jumbinho"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 65.9
+    },
+    {
+      "id": "MLB17336417",
+      "nome": "Fralda Huggies Natural Care M - 36 Fraldas Gênero Sem gênero Tamanho Médio (M)",
+      "busca": "fralda Huggies Natural Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Natural Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "36"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "36"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Xtra-Flex"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24981132",
+      "nome": "Fralda Huggies Meguinha M C/42 Unidades",
+      "busca": "fralda Huggies Natural Care M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB20016299",
+      "nome": "Fralda Huggies Little Swimmers G - 10 Fraldas",
+      "busca": "fralda Huggies Natural Care G",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Little Swimmers"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "10"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "10"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 49.5
+    },
+    {
+      "id": "MLB30956946",
+      "nome": "Fralda Huggies Little Swimmers M-g C/10",
+      "busca": "fralda Huggies Natural Care G",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Little Swimmers M-G"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "12"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB17336069",
+      "nome": "Fralda Huggies Natural Care Xg - 28 Fraldas Gênero Sem gênero Tamanho Extra grande (XG)",
+      "busca": "fralda Huggies Natural Care XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Natural Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "28"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "28"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24355089",
+      "nome": "Fralda Huggies Supreme Rn Kit Com 4x 18 Unidades",
+      "busca": "fralda Huggies Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme"
+        ],
+        [
+          "DIAPER_SIZE",
+          "RN"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB34289162",
+      "nome": "Fralda Huggies Proteção Diaria Hiperzinha G Tamanho Grande (G)",
+      "busca": "fralda Huggies Pants G",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Proteção Diaria"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "52"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "X-Protect"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB33795516",
+      "nome": "Fralda Huggies Proteção Diaria Hiperzinha Xg Tamanho Extra grande (XG) Huggies Protección Día x48",
+      "busca": "fralda Huggies Pants XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Proteção Diária"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "48"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "X-Protect"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 64.9
+    },
+    {
+      "id": "MLB56646379",
+      "nome": "Kit 2 - Fralda Huggies Little Swimmers G/xg 10 Un",
+      "busca": "fralda Huggies Pants XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "1"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB30925599",
+      "nome": "Fralda Huggies Pants Roupinha Rápida Absorção XXG 22 unidades",
+      "busca": "fralda Huggies Pants XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Rápida absorção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "22"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Xtra Protect"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 43.37
+    },
+    {
+      "id": "MLB17336028",
+      "nome": "Fralda Huggies Rápida Absorção XXG 66 Unidades",
+      "busca": "fralda Huggies Pants XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Rápida absorção"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "66"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ]
+      ],
+      "ofertas": 15,
+      "menorPreco": 81.9
+    },
+    {
+      "id": "MLB79259894",
+      "nome": "Fralda Huggies Supreme Care - P/m/g/xg/xxg Tamanho XXG",
+      "busca": "fralda Huggies Pants XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "LINE",
+          "Supreme Care"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "30"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XXG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB25156479",
+      "nome": "Fralda Mamypoko Dia/noite Xxg Com 22 Unidades",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Dia&Noite"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB51653517",
+      "nome": "Fralda Mamypoko Calça Dia & Noite Tam M-4paco C 58tira",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Dia&Noite Calça"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "58"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 315.15
+    },
+    {
+      "id": "MLB38928035",
+      "nome": "Fralda Mamypoko Fralda-calça Dia & Noite G 30 Unidades Tamanho Grande (G)",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Dia&Noite"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "30"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 78.5
+    },
+    {
+      "id": "MLB44007970",
+      "nome": "Fralda MamyPoko Calça Dia & Noite Tam P 46 Unidades",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Dia&Noite Calça"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "46"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "46"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Pequeno (P)"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 197.41
+    },
+    {
+      "id": "MLB65344904",
+      "nome": "Fralda Mamypoko Calça Dia & Noite Tam Xg-4paco C 42tira",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Dia&Noite Calça"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "42"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 334.65
+    },
+    {
+      "id": "MLB41161687",
+      "nome": "Fralda Mamypoko Calça Hiper G 54 Unidades",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "54"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB20564981",
+      "nome": "Fralda Mamypoko Calça Mega M C/42",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Calça"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "42"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Supersec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB38133235",
+      "nome": "Fralda Mamypoko Calça Jumbo Tamanho Rn 4 Pcts C/ 36 Tiras",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Jumbo"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "36"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "36"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Recém-nascido (RN)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Japonesa"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB53181399",
+      "nome": "Fralda Mamypoko Super Seca G 3 Pct. C/42 Cxf",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Super Seca"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "42"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Seca"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB40863611",
+      "nome": "Fralda Mamypoko Super Seca Tamanho G Com 20 Unidades",
+      "busca": "fralda MamyPoko Dia e Noite RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Super Seca"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "20"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB44580843",
+      "nome": "Fralda Descartável Mamypoko Calça Dia & Noite Tamanho P - 6",
+      "busca": "fralda MamyPoko Dia e Noite P",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Dia&Noite Calça"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "22"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Pequeno (P)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB49612218",
+      "nome": "Fralda Mamypoko Calça Premium Seca G 2 P C/ 60 Fraldas 120 T",
+      "busca": "fralda MamyPoko Dia e Noite P",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Super Seca Calça"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "60"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB21395187",
+      "nome": "Fralda Mamypoko M C/50 Mega Super Seca",
+      "busca": "fralda MamyPoko Dia e Noite M",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Super Seca"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "50"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ControlFlex"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB31641226",
+      "nome": "Fralda Calça Mamypoko Dia&noite Giga M 68 Unidades",
+      "busca": "fralda MamyPoko Dia e Noite M",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Mamypoko Dia&noite"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "68"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Japonesa"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 91.94
+    },
+    {
+      "id": "MLB79744936",
+      "nome": "Fralda Mamypoko Super Seca Tamanho G 42 Unidades Mega",
+      "busca": "fralda MamyPoko Dia e Noite G",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Super Seca"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB31764580",
+      "nome": "MamyPoko Fralda Calça Mamypoko Giga Xg 52 Unidades",
+      "busca": "fralda MamyPoko Dia e Noite XG",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Giga"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "52"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Japonesa"
+        ]
+      ],
+      "ofertas": 5,
+      "menorPreco": 92.63
+    },
+    {
+      "id": "MLB45913458",
+      "nome": "Fralda Calça Descartável Mamypoko Dia&noite | Giga Xg 52 Tir",
+      "busca": "fralda MamyPoko Dia e Noite XG",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "2"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "52"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 174.9
+    },
+    {
+      "id": "MLB31737564",
+      "nome": "Fralda Calça Mamypoko Dia&noite Giga Xxg 44 Unidades",
+      "busca": "fralda MamyPoko Dia e Noite XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Mamypoko Dia&noite Giga"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "44"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Japonesa"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 102.9
+    },
+    {
+      "id": "MLB24713205",
+      "nome": "Fralda Calça Mamypoko Dia E Noite Amarelo 2 Pct Tamanho Xxg",
+      "busca": "fralda MamyPoko Dia e Noite XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Amarela"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "22"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ControlFlex"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB20681388",
+      "nome": "Fralda Mamypoko Super Seca G 3 Pct. C/42 Cxf",
+      "busca": "fralda MamyPoko Pants RN",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Super Seca"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "42"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Seca"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB19159749",
+      "nome": "Fralda MamyPoko Super Seca M 34 Unidades 7-10kg com Tecnologia Premium",
+      "busca": "fralda MamyPoko Pants M",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Super Seca"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "34"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Seca"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB21853441",
+      "nome": "Fraldas MamyPoko Fralda-Calça XXG",
+      "busca": "fralda MamyPoko Pants XXG",
+      "atributos": [
+        [
+          "BRAND",
+          "MamyPoko"
+        ],
+        [
+          "LINE",
+          "Fralda-Calça"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "56"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB41365329",
+      "nome": "Fralda Turma Da Mônica Baby Os Tamanhos",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "12"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "QuatroSec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB74312978",
+      "nome": "03 Pacotes Fralda Turma Da Mônica Baby Mega M 50",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Ensy Baby"
+        ],
+        [
+          "LINE",
+          "Turma da Mônica Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "50"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M 50"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB23943243",
+      "nome": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "28"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 6,
+      "menorPreco": 25.4
+    },
+    {
+      "id": "MLB41623087",
+      "nome": "Fralda Turma Da Mônica Baby Os Tamanhos",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "10"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "QuatroSec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB35368855",
+      "nome": "Fralda Turma Da Mônica Econômica M C/40 Unidades",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "12"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB69949436",
+      "nome": "Fralda Turma Da Monica Baby Jumbinho - O Tamanho Tamanho Médio (M) com 18",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "12"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M) com 18"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Qu4troSEC"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB67486666",
+      "nome": "Fralda Turma da Mônica Baby Shortinho Jumbo M 26 Unidades",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Shortinho"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "26"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Gel superabsorvente com barreiras reforçadas"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 49.99
+    },
+    {
+      "id": "MLB48386678",
+      "nome": "Toalha Banho Capuz E Forro Fralda Turma Da Monica",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Banho"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB21494544",
+      "nome": "Toalha Infantil Com Forro Fralda Turma Da Monica Cascao",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma Da Monica Baby"
+        ],
+        [
+          "LINE",
+          "Infantil"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "1"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB36645749",
+      "nome": "Fralda Turma Da Mônica Tripla Proteção 108 Unidades M",
+      "busca": "fralda Turma da Mônica Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Huggies"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ZeroFeel"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB18392677",
+      "nome": "Fralda Turma Da Mônica Baby Mega G 44 Unidades G",
+      "busca": "fralda Turma da Mônica Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "44"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Qu4troSEC"
+        ]
+      ],
+      "ofertas": 20,
+      "menorPreco": 38.18
+    },
+    {
+      "id": "MLB23909706",
+      "nome": "Fralda Turma da Mônica Baby Shortinho Jumbo G 30 Unidades",
+      "busca": "fralda Turma da Mônica Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "30"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "360° de ajuste"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB78651682",
+      "nome": "Fralda Turma Da Mônica Baby - Diversos Tamanhos Tamanho G 44UN",
+      "busca": "fralda Turma da Mônica Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "5"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G 44UN"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "QuatroSec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB27581079",
+      "nome": "Fralda Turma da Mônica Baby G Grande 44 Unidades",
+      "busca": "fralda Turma da Mônica Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "44"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 50
+    },
+    {
+      "id": "MLB35370916",
+      "nome": "Fralda Turma Da Mônica Econômica P C/44 Unidades",
+      "busca": "fralda Turma da Mônica Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Pom Pom"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "12"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24420418",
+      "nome": "Fralda Turma Mônica Baby G Pacote 32 Unidades Tamanho Grande (G)",
+      "busca": "fralda Turma da Mônica Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "32"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 1,
+      "menorPreco": 42.99
+    },
+    {
+      "id": "MLB78661518",
+      "nome": "Fralda Turma Da Mônica Baby Mega Qu4trosec - Tamanhos Tamanho G 44UN",
+      "busca": "fralda Turma da Mônica Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "44"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G 44UN"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "QuatroSec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB23097075",
+      "nome": "Fralda Turma da Mônica Baby Shortinho Jumbo XG 24 Unidades",
+      "busca": "fralda Turma da Mônica Baby XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Shortinho"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "24"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "CERTIFIED_MEASUREMENT"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB78651751",
+      "nome": "Fralda Turma Da Mônica Baby - Diversos Tamanhos Tamanho XG 42UN",
+      "busca": "fralda Turma da Mônica Baby XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "5"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG 42UN"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "QuatroSec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB73784530",
+      "nome": "03 Pacotes Fralda Turma Da Mônica Baby Mega Xg 42",
+      "busca": "fralda Turma da Mônica Baby XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Ensy Baby"
+        ],
+        [
+          "LINE",
+          "Turma da Mônica Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "42"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG 42"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB68405251",
+      "nome": "Fralda Turma da Mônica Baby Shortinho Jumbo XG 20 Unidades",
+      "busca": "fralda Turma da Mônica Baby XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Shortinho"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "20"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "SELLER"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 44.99
+    },
+    {
+      "id": "MLB72290654",
+      "nome": "Fralda Turma Da Monica Baby Mega Tamanho P, M, g, gg, xg Tamanho Xg",
+      "busca": "fralda Turma da Mônica Baby XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "42"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Qu4troSEC"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB68980522",
+      "nome": "Fralda Turma Da Monica Baby Mega Tamanho P, M, g, gg, xg Tamanho XG",
+      "busca": "fralda Turma da Mônica Baby XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma da Mônica"
+        ],
+        [
+          "LINE",
+          "Baby"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "44"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Qu4troSEC"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB35961334",
+      "nome": "Fralda Turma da Mônica Baby Premium para Bebês Extra Grande (XG) – 26 Unidades",
+      "busca": "fralda Turma da Mônica Baby XG",
+      "atributos": [
+        [
+          "BRAND",
+          "Turma Da Monica Baby"
+        ],
+        [
+          "LINE",
+          "Premium"
+        ],
+        [
+          "SALE_FORMAT",
+          "Kit"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "26"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra grande (XG)"
+        ]
+      ],
+      "ofertas": 3,
+      "menorPreco": 39.99
+    },
+    {
+      "id": "MLB20964267",
+      "nome": "Fralda Personal Baby Hyper M Com 90",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Personalidade"
+        ],
+        [
+          "LINE",
+          "Baby Plus"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "6"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB21419669",
+      "nome": "Fralda Personal Baby Pants M - 48 Unidades",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal Baby"
+        ],
+        [
+          "LINE",
+          "Premium Pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "48"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Japonesa"
+        ]
+      ],
+      "ofertas": 4,
+      "menorPreco": 88.89
+    },
+    {
+      "id": "MLB19868838",
+      "nome": "Fralda Personal Soft & Protect M - 10 Unidades",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal"
+        ],
+        [
+          "LINE",
+          "Soft & Protect"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "10"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Premium Care"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB24552079",
+      "nome": "Fralda Personal Baby Hyper G Com 80 Unidades",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal"
+        ],
+        [
+          "DIAPER_SIZE",
+          "G"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Hyper G"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB28017912",
+      "nome": "Fralda personal baby total protect pants m 52 unidades",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal Baby"
+        ],
+        [
+          "LINE",
+          "Total protect pants"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "52"
+        ],
+        [
+          "DIAPER_SIZE",
+          "M"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ControlFlex"
+        ]
+      ],
+      "ofertas": 4,
+      "menorPreco": 39.9
+    },
+    {
+      "id": "MLB45706605",
+      "nome": "Fralda Personal Premium Jumbo Xg Branco",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Santher"
+        ],
+        [
+          "LINE",
+          "Jumbo"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "24"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Tamanho XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "ControlFlex"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB19147056",
+      "nome": "Fralda Personal Baby Protect & Sec 28 unidades (XG)",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal Baby"
+        ],
+        [
+          "LINE",
+          "Protect & Sec - Abre e Fecha"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "28"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Air Sec respirável"
+        ]
+      ],
+      "ofertas": 15,
+      "menorPreco": 33.94
+    },
+    {
+      "id": "MLB24572997",
+      "nome": "Fralda Personal Baby Hiper Xxg 50un",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal"
+        ],
+        [
+          "LINE",
+          "Hiper"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "50"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Extra extra grande (XXG)"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 69.9
+    },
+    {
+      "id": "MLB37990902",
+      "nome": "Fralda Personal Baby Jumbo Xxg 16un Gênero Sem gênero",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "18"
+        ],
+        [
+          "DIAPER_SIZE",
+          "XGG"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Confort Sec"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB67087908",
+      "nome": "Fralda Personal Protect Sec M 90 Unid: 12h Seca",
+      "busca": "fralda Personal Baby M",
+      "atributos": [
+        [
+          "BRAND",
+          "Fralda Personal Protect"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "90"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Médio (M)"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    },
+    {
+      "id": "MLB45628296",
+      "nome": "Fralda Personal Soft & Protect Hiper Pacote",
+      "busca": "fralda Personal Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal"
+        ],
+        [
+          "LINE",
+          "Soft & Protect"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "1"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ]
+      ],
+      "ofertas": 2,
+      "menorPreco": 57.6
+    },
+    {
+      "id": "MLB69950653",
+      "nome": "Fralda Personal Baby Protect G 14 Unidades 8-12,5kg Grande (g) Sem Gênero",
+      "busca": "fralda Personal Baby G",
+      "atributos": [
+        [
+          "BRAND",
+          "Personal"
+        ],
+        [
+          "LINE",
+          "Clássica"
+        ],
+        [
+          "SALE_FORMAT",
+          "Unidade"
+        ],
+        [
+          "UNITS_PER_PACK",
+          "1"
+        ],
+        [
+          "UNITS_PER_PACKAGE",
+          "14"
+        ],
+        [
+          "DIAPER_SIZE",
+          "Grande (G)"
+        ],
+        [
+          "PACKAGE_DATA_SOURCE",
+          "SELLER"
+        ],
+        [
+          "DIAPER_TECHNOLOGY",
+          "Mega absorção"
+        ]
+      ],
+      "ofertas": 0,
+      "menorPreco": null
+    }
+  ],
+  "erros": [
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Confort%20Sec%20G&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Confort%20Sec%20XG&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Confort%20Sec%20XXG&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Premium%20Care%20P&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Premium%20Care%20M&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Premium%20Care%20G&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Pants%20M&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Pants%20XG&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Pampers%20Pants%20XXG&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Huggies%20Tripla%20Prote%C3%A7%C3%A3o%20P&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Huggies%20Tripla%20Prote%C3%A7%C3%A3o%20M&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Huggies%20Tripla%20Prote%C3%A7%C3%A3o%20XXG&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Huggies%20Supreme%20Care%20RN&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Huggies%20Supreme%20Care%20P&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Huggies%20Supreme%20Care%20XXG&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Huggies%20Natural%20Care%20RN&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Huggies%20Natural%20Care%20XXG&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Turma%20da%20M%C3%B4nica%20Baby%20RN&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Turma%20da%20M%C3%B4nica%20Baby%20P&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Turma%20da%20M%C3%B4nica%20Baby%20XXG&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Personal%20Baby%20RN&limit=10",
+      "status": 429,
+      "resposta": "{\"status\":429,\"message\":\"local_rate_limited\"}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Personal%20Baby%20P&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Personal%20Baby%20XG&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/search?status=active&site_id=MLB&q=fralda%20Personal%20Baby%20XXG&limit=10",
+      "status": 429,
+      "resposta": "{\"message\":\"local_rate_limited\",\"status\":429}\n"
+    },
+    {
+      "caminho": "/products/MLB18392568/items?limit=20",
+      "status": 404,
+      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
+    },
+    {
+      "caminho": "/products/MLB24981190/items?limit=20",
+      "status": 404,
+      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
+    },
+    {
+      "caminho": "/products/MLB70413607/items?limit=20",
+      "status": 404,
+      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
+    },
+    {
+      "caminho": "/products/MLB65227194/items?limit=20",
+      "status": 404,
+      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
+    },
+    {
+      "caminho": "/products/MLB65274334/items?limit=20",
+      "status": 404,
+      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
+    },
+    {
+      "caminho": "/products/MLB18458180/items?limit=20",
+      "status": 404,
+      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
+    }
+  ]
+}
