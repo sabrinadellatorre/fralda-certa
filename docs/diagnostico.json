@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-15T09:22:10.626Z",
+  "geradoEm": "2026-10-15T21:20:26.891Z",
   "tokenGerado": true,
   "consultas": [
     {
@@ -375,38 +375,8 @@
     {
       "caminho": "/products/MLB23414358/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB23414307",
@@ -781,38 +751,8 @@
     {
       "caminho": "/products/MLB19485095/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB19485104",
@@ -839,38 +779,8 @@
     {
       "caminho": "/products/MLB19485104/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB18715385",
@@ -1303,38 +1213,8 @@
     {
       "caminho": "/products/MLB17336422/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB17336271",
@@ -1361,38 +1241,8 @@
     {
       "caminho": "/products/MLB17336271/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB17336028",
@@ -1767,38 +1617,8 @@
     {
       "caminho": "/products/MLB31764580/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB31737564",
@@ -2057,38 +1877,8 @@
     {
       "caminho": "/products/MLB35961334/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 404,
+      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
     },
     {
       "caminho": "/products/MLB18715381",
@@ -2289,38 +2079,8 @@
     {
       "caminho": "/products/MLB28017912/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB23695767",
@@ -2463,38 +2223,8 @@
     {
       "caminho": "/products/MLB35435128/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB41165267",
@@ -2579,38 +2309,8 @@
     {
       "caminho": "/products/MLB45399497/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 404,
+      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
     },
     {
       "caminho": "/products/MLB41898472",
@@ -4087,38 +3787,8 @@
     {
       "caminho": "/products/MLB24572997/items?limit=20",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "paging",
-        "results",
-        "experiments"
-      ]
-    },
-    {
-      "exemploOferta": [
-        "item_id",
-        "site_id",
-        "seller_id",
-        "accepts_mercadopago",
-        "price",
-        "category_id",
-        "currency_id",
-        "warranty",
-        "condition",
-        "listing_type_id",
-        "international_delivery_mode",
-        "tier",
-        "inventory_id",
-        "tags",
-        "deal_ids",
-        "official_store_id",
-        "original_price",
-        "shipping",
-        "seller_address",
-        "sale_terms",
-        "user_product_id",
-        "min_purchase_unit"
-      ]
+      "status": 400,
+      "resposta": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer e30.e30.</Arg"
     },
     {
       "caminho": "/products/MLB21419669",
