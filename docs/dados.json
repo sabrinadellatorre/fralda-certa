@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-20T09:22:31.336Z",
+  "geradoEm": "2026-10-20T21:20:30.273Z",
   "site": {
     "titulo": "Fralda Certa",
     "handle": "@sabrinadellatorre",
@@ -24,7 +24,7 @@
         "titulo": "Fralda Pampers Confort Sec P 50 unidades",
         "qtdNoTitulo": 50,
         "ofertaId": "MLB6817290136",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 56
       },
       "amazon": {
@@ -48,7 +48,7 @@
         "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
         "qtdNoTitulo": 196,
         "ofertaId": "MLB7711423684",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 225
       },
       "amazon": {
@@ -66,13 +66,13 @@
       "qtd": 60,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18392698?pdp_filters=item_id%3AMLB4702124885&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 93.8,
+        "preco": 99.54,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Pampers Confort Sec Tamanho G, 60 Unidades",
         "qtdNoTitulo": 60,
         "ofertaId": "MLB4702124885",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 93.8
       },
       "amazon": {
@@ -96,7 +96,7 @@
         "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
         "qtdNoTitulo": 168,
         "ofertaId": "MLB5618733324",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 203.13
       },
       "amazon": {
@@ -113,15 +113,15 @@
       "tamanho": "XG",
       "qtd": 116,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336419?pdp_filters=item_id%3AMLB5616439556&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 169.99,
-        "freteGratis": false,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336419?pdp_filters=item_id%3AMLB5014100827&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 245,
+        "freteGratis": true,
         "disponivel": true,
         "titulo": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
         "qtdNoTitulo": 116,
-        "ofertaId": "MLB5616439556",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
-        "precoAnterior": 245
+        "ofertaId": "MLB5014100827",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
+        "precoAnterior": 169.99
       },
       "amazon": {
         "preco": null,
@@ -137,14 +137,14 @@
       "tamanho": "XXG",
       "qtd": 112,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19466197?pdp_filters=item_id%3AMLB4170484097&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 209.99,
-        "freteGratis": false,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19466197?pdp_filters=item_id%3AMLB5196112240&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 232,
+        "freteGratis": true,
         "disponivel": true,
         "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
         "qtdNoTitulo": 112,
-        "ofertaId": "MLB4170484097",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "ofertaId": "MLB5196112240",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 209.99
       },
       "amazon": {
@@ -168,7 +168,7 @@
         "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
         "qtdNoTitulo": 40,
         "ofertaId": "MLB7841094308",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 45
       },
       "amazon": {
@@ -185,14 +185,14 @@
       "tamanho": "M",
       "qtd": 80,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23414307?pdp_filters=item_id%3AMLB5210984325&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 115,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23414307?pdp_filters=item_id%3AMLB4650290761&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 150,
         "freteGratis": true,
         "disponivel": true,
         "titulo": "Fralda Pampers Premium Care Tamanho M 80 Unidades",
         "qtdNoTitulo": 80,
-        "ofertaId": "MLB5210984325",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "ofertaId": "MLB4650290761",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 115
       },
       "amazon": {
@@ -210,13 +210,13 @@
       "qtd": 136,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB44226827?pdp_filters=item_id%3AMLB5507192284&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 223.92,
+        "preco": 224.25,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Pampers Premium Care Tamanho G - 136 Unidades",
         "qtdNoTitulo": 136,
         "ofertaId": "MLB5507192284",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 223.92
       },
       "amazon": {
@@ -233,14 +233,14 @@
       "tamanho": "XG",
       "qtd": 120,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB44160420?pdp_filters=item_id%3AMLB4519354305&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 339,
-        "freteGratis": true,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB44160420?pdp_filters=item_id%3AMLB5432242601&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 20,
+        "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Pampers Premium Care Tamanho XG, 120 Unidades",
         "qtdNoTitulo": 120,
-        "ofertaId": "MLB4519354305",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "ofertaId": "MLB5432242601",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 339
       },
       "amazon": {
@@ -264,7 +264,7 @@
         "titulo": "Fralda Pampers Premium Care Tamanho XXG 84 Unidades",
         "qtdNoTitulo": 84,
         "ofertaId": "MLB4039593055",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 167.52
       },
       "amazon": {
@@ -288,7 +288,7 @@
         "titulo": "Fralda Pampers Pants Ajuste Total Descartável Pequeno (p) Sem Gênero",
         "qtdNoTitulo": null,
         "ofertaId": "MLB5138481615",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 39
       },
       "amazon": {
@@ -312,7 +312,7 @@
         "titulo": "Fralda Pampers Pants Ajuste Total M 112 Unidades",
         "qtdNoTitulo": 112,
         "ofertaId": "MLB4643466033",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 148
       },
       "amazon": {
@@ -336,8 +336,8 @@
         "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 94 Unidades",
         "qtdNoTitulo": 94,
         "ofertaId": "MLB7772095486",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
-        "precoAnterior": 185.01
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
+        "precoAnterior": 184.5
       },
       "amazon": {
         "preco": null,
@@ -360,7 +360,7 @@
         "titulo": "Fralda Pampers Pants Ajuste Total XG, 86 Unidades",
         "qtdNoTitulo": 86,
         "ofertaId": "MLB7111697754",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 164.53
       },
       "amazon": {
@@ -378,13 +378,13 @@
       "qtd": 60,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18715385?pdp_filters=item_id%3AMLB6939054742&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 119.9,
+        "preco": 128.69,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
         "qtdNoTitulo": 60,
         "ofertaId": "MLB6939054742",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 119.9
       },
       "amazon": {
@@ -401,14 +401,14 @@
       "tamanho": "M",
       "qtd": 124,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19159742?pdp_filters=item_id%3AMLB5276244323&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 230,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19159742?pdp_filters=item_id%3AMLB7120753448&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 229,
         "freteGratis": true,
         "disponivel": true,
         "titulo": "Fralda Pampers Premium Care Pants Tamanho M 124 Unidades",
         "qtdNoTitulo": 124,
-        "ofertaId": "MLB5276244323",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "ofertaId": "MLB7120753448",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 230
       },
       "amazon": {
@@ -432,7 +432,7 @@
         "titulo": "Fralda Pampers Premium Care Pants Tamanho G 112 Unidades",
         "qtdNoTitulo": 112,
         "ofertaId": "MLB4176556265",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 183.37
       },
       "amazon": {
@@ -449,15 +449,15 @@
       "tamanho": "XG",
       "qtd": 96,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19153447?pdp_filters=item_id%3AMLB6656455276&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 198.99,
-        "freteGratis": false,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19153447?pdp_filters=item_id%3AMLB5425649543&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 194,
+        "freteGratis": true,
         "disponivel": true,
         "titulo": "Fralda Pampers Premium Care Pants Tamanho XG 96 Unidades",
         "qtdNoTitulo": 96,
-        "ofertaId": "MLB6656455276",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
-        "precoAnterior": 186
+        "ofertaId": "MLB5425649543",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
+        "precoAnterior": 198.99
       },
       "amazon": {
         "preco": null,
@@ -474,13 +474,13 @@
       "qtd": 60,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19543873?pdp_filters=item_id%3AMLB3528809513&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 110.32,
+        "preco": 123.79,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Pampers Pants Premium Care XXG 60 unidades",
         "qtdNoTitulo": 60,
         "ofertaId": "MLB3528809513",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 110.32
       },
       "amazon": {
@@ -504,7 +504,7 @@
         "titulo": "Fralda Huggies Tripla Proteção P 32 unidades",
         "qtdNoTitulo": 32,
         "ofertaId": "MLB5541010100",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 29
       },
       "amazon": {
@@ -528,7 +528,7 @@
         "titulo": "Fralda Huggies Tripla Proteção M - 92 Fraldas",
         "qtdNoTitulo": 92,
         "ofertaId": "MLB3844673917",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 79
       },
       "amazon": {
@@ -552,7 +552,7 @@
         "titulo": "Fralda Huggies Tripla Proteção G 36 unidades",
         "qtdNoTitulo": 36,
         "ofertaId": "MLB3438565294",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 26
       },
       "amazon": {
@@ -576,7 +576,7 @@
         "titulo": "Fralda Huggies Tripla Proteção Xg 32 Unidades",
         "qtdNoTitulo": 32,
         "ofertaId": "MLB6015210084",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 48
       },
       "amazon": {
@@ -600,7 +600,7 @@
         "titulo": "Fralda Huggies Rápida Absorção XXG 66 Unidades",
         "qtdNoTitulo": 66,
         "ofertaId": "MLB3814734315",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 91.19
       },
       "amazon": {
@@ -624,7 +624,7 @@
         "titulo": "Fralda Huggies Supreme Care M 104 Unidades Gênero Sem gênero Tamanho Médio (M)",
         "qtdNoTitulo": 104,
         "ofertaId": "MLB6888327630",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 140
       },
       "amazon": {
@@ -648,7 +648,7 @@
         "titulo": "Fralda Huggies Supreme Care Xg C/56 Gênero Sem Gênero Tamanho Extra Grande (xg)",
         "qtdNoTitulo": null,
         "ofertaId": "MLB5311953479",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 85.9
       },
       "amazon": {
@@ -672,7 +672,7 @@
         "titulo": "Fralda Huggies Suplreme Care Xxg C/54 Gênero Sem Gênero Tamanho Extra Extra Grande (xxg)",
         "qtdNoTitulo": null,
         "ofertaId": "MLB4361723489",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 47
       },
       "amazon": {
@@ -696,7 +696,7 @@
         "titulo": "Fralda Huggies Roupinha Supreme Care M 22 Unidades",
         "qtdNoTitulo": 22,
         "ofertaId": "MLB5441094714",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 32
       },
       "amazon": {
@@ -720,7 +720,7 @@
         "titulo": "Fralda Calça Mamypoko Dia&noite Giga M 68 Unidades",
         "qtdNoTitulo": 68,
         "ofertaId": "MLB3588145449",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 91.94
       },
       "amazon": {
@@ -737,14 +737,14 @@
       "tamanho": "XG",
       "qtd": 52,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB31764580?pdp_filters=item_id%3AMLB4719948259&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 139.99,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB31764580?pdp_filters=item_id%3AMLB4214469687&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 144.09,
         "freteGratis": true,
         "disponivel": true,
         "titulo": "MamyPoko Fralda Calça Mamypoko Giga Xg 52 Unidades",
         "qtdNoTitulo": 52,
-        "ofertaId": "MLB4719948259",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "ofertaId": "MLB4214469687",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 139.99
       },
       "amazon": {
@@ -768,7 +768,7 @@
         "titulo": "Fralda Calça Mamypoko Dia&noite Giga Xxg 44 Unidades",
         "qtdNoTitulo": 44,
         "ofertaId": "MLB3588145115",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 102.9
       },
       "amazon": {
@@ -792,7 +792,7 @@
         "titulo": "Kit Fralda Turma Da Mônica Rn - 72 Unidades Tamanho Recém-nascido (RN)",
         "qtdNoTitulo": 72,
         "ofertaId": "MLB7177134034",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 60.99
       },
       "amazon": {
@@ -809,14 +809,14 @@
       "tamanho": "M",
       "qtd": 28,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23943243?pdp_filters=item_id%3AMLB6488053484&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 30,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23943243?pdp_filters=item_id%3AMLB6658539348&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 26,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
         "qtdNoTitulo": 28,
-        "ofertaId": "MLB6488053484",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "ofertaId": "MLB6658539348",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 30
       },
       "amazon": {
@@ -840,7 +840,7 @@
         "titulo": "Fralda Turma Da Mônica Baby Mega G 44 Unidades G",
         "qtdNoTitulo": 44,
         "ofertaId": "MLB5514732534",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 36.9
       },
       "amazon": {
@@ -864,7 +864,7 @@
         "titulo": "Fralda Turma da Mônica Baby Premium para Bebês Extra Grande (XG) – 26 Unidades",
         "qtdNoTitulo": 26,
         "ofertaId": "MLB7411131394",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 115.9
       },
       "amazon": {
@@ -888,7 +888,7 @@
         "titulo": "Fralda Turma da Mônica Baby XXG com 16 Unidades",
         "qtdNoTitulo": 16,
         "ofertaId": "MLB4903392107",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 19.8
       },
       "amazon": {
@@ -905,14 +905,14 @@
       "tamanho": "RN",
       "qtd": 40,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB26521340?pdp_filters=item_id%3AMLB5191712243&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 54,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB26521340?pdp_filters=item_id%3AMLB6404390890&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 54.9,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Personal Baby Premium Protection - Tam: RN até P Com 40 Fraldas",
         "qtdNoTitulo": 40,
-        "ofertaId": "MLB5191712243",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "ofertaId": "MLB6404390890",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 54
       },
       "amazon": {
@@ -930,13 +930,13 @@
       "qtd": 66,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB39918944?pdp_filters=item_id%3AMLB5187055580&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 69.99,
+        "preco": 62.83,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Personal Protect & Sec XG com 66 Unidades",
         "qtdNoTitulo": 66,
         "ofertaId": "MLB5187055580",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 69.99
       },
       "amazon": {
@@ -960,7 +960,7 @@
         "titulo": "Fralda personal baby total protect pants m 52 unidades",
         "qtdNoTitulo": 52,
         "ofertaId": "MLB5226723867",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 39.9
       },
       "amazon": {
@@ -984,7 +984,7 @@
         "titulo": "Fralda Personal Baby Pants Total Protect Xxg 14-25KG Com 36 Unidades",
         "qtdNoTitulo": 36,
         "ofertaId": "MLB4918837531",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 65.99
       },
       "amazon": {
@@ -1008,7 +1008,7 @@
         "titulo": "Fralda Babysec Ultrasec M 38 Unidades",
         "qtdNoTitulo": 38,
         "ofertaId": "MLB5031951076",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 25
       },
       "amazon": {
@@ -1032,7 +1032,7 @@
         "titulo": "Fralda Babysec Premium M 68 unidades",
         "qtdNoTitulo": 68,
         "ofertaId": "MLB5251417571",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 78.99
       },
       "amazon": {
@@ -1056,7 +1056,7 @@
         "titulo": "Fralda Babysec Ultra Jumbinho 12un Xg",
         "qtdNoTitulo": 12,
         "ofertaId": "MLB4536927419",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 31.79
       },
       "amazon": {
@@ -1080,7 +1080,7 @@
         "titulo": "FRALDA BABYSEC ULTRASEC SHORTINHO MEGA XXG 20 UNIDADES",
         "qtdNoTitulo": 20,
         "ofertaId": "MLB5106539635",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 37.97
       },
       "amazon": {
@@ -1104,7 +1104,7 @@
         "titulo": "Fralda Cremer Econômica P 36 Unidades Gênero Sem gênero Tamanho Pequeno (P)",
         "qtdNoTitulo": 36,
         "ofertaId": "MLB5122273082",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 28.08
       },
       "amazon": {
@@ -1122,14 +1122,14 @@
       "qtd": 34,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB40345827?pdp_filters=item_id%3AMLB6802462944&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 25.9,
+        "preco": 26.4,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Cremer Econômica M 34 Unidades",
         "qtdNoTitulo": 34,
         "ofertaId": "MLB6802462944",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
-        "precoAnterior": 27.9
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
+        "precoAnterior": 25.9
       },
       "amazon": {
         "preco": null,
@@ -1146,13 +1146,13 @@
       "qtd": 30,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41492638?pdp_filters=item_id%3AMLB5147380914&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 28.01,
+        "preco": 34.66,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Cremer Econômica G 30 Unidades",
         "qtdNoTitulo": 30,
         "ofertaId": "MLB5147380914",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 28.01
       },
       "amazon": {
@@ -1176,7 +1176,7 @@
         "titulo": "Fralda Cremer Econômica XG 24 Unidades",
         "qtdNoTitulo": 24,
         "ofertaId": "MLB3879343705",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 24.49
       },
       "amazon": {
@@ -1200,7 +1200,7 @@
         "titulo": "Fralda Cremer Jumbo P 24 Unidades Pequeno (p) Sem Gênero",
         "qtdNoTitulo": 24,
         "ofertaId": "MLB6785833982",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 18
       },
       "amazon": {
@@ -1224,7 +1224,7 @@
         "titulo": "Fralda Cremer Hiper Magic Care Xg 52 Unidades Sem Gênero",
         "qtdNoTitulo": 52,
         "ofertaId": "MLB5426352058",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 59.15
       },
       "amazon": {
@@ -1248,7 +1248,7 @@
         "titulo": "Fralda Mili Descartável Lovecare Rn C/18 Unidades",
         "qtdNoTitulo": 18,
         "ofertaId": "MLB5940316926",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 24.49
       },
       "amazon": {
@@ -1272,7 +1272,7 @@
         "titulo": "Fralda Mili Descartável Love Care- Tam: M- 104 Fraldas",
         "qtdNoTitulo": 104,
         "ofertaId": "MLB4266161961",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 199.27
       },
       "amazon": {
@@ -1296,7 +1296,7 @@
         "titulo": "Fralda Mili Baby Giga G 78 Unidades",
         "qtdNoTitulo": 78,
         "ofertaId": "MLB4109802411",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 89.99
       },
       "amazon": {
@@ -1320,7 +1320,7 @@
         "titulo": "Fralda Mili Love & Care Pants - Tamanho: M - Com 72 Fraldas Médio (m) Sem Gênero",
         "qtdNoTitulo": 72,
         "ofertaId": "MLB4153182831",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 92.55
       },
       "amazon": {
@@ -1344,7 +1344,7 @@
         "titulo": "Fralda Mili Love & Care Pants - Tamanho: G - Com 60 Fraldas Grande (g) Sem Gênero",
         "qtdNoTitulo": 60,
         "ofertaId": "MLB5552887374",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 92.55
       },
       "amazon": {
@@ -1368,7 +1368,7 @@
         "titulo": "Fralda Mili Love & Care Pants - Tamanho: Xg - Com 48 Fraldas Extra Grande (xg) Sem Gênero",
         "qtdNoTitulo": 48,
         "ofertaId": "MLB5238023425",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 109.9
       },
       "amazon": {
@@ -1392,7 +1392,7 @@
         "titulo": "Fralda Mili Love & Care Pants XXG para Bebês, 48 Unidades",
         "qtdNoTitulo": 48,
         "ofertaId": "MLB5238087845",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 109.9
       },
       "amazon": {
@@ -1416,7 +1416,7 @@
         "titulo": "Fralda Pom Pom Clássica Para Bebê Tamanho P Com 30 Unidades",
         "qtdNoTitulo": 30,
         "ofertaId": "MLB7150344098",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 33.88
       },
       "amazon": {
@@ -1440,7 +1440,7 @@
         "titulo": "Fralda Pom Pom Protek Proteção de Mãe RN Para Recém-Nascido, Pacote Com 18 Fraldas",
         "qtdNoTitulo": 18,
         "ofertaId": "MLB4010595779",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 37
       },
       "amazon": {
@@ -1464,7 +1464,7 @@
         "titulo": "Fralda Pom Pom Protek Proteção De Mãe Mega P 54 Unidades Gên",
         "qtdNoTitulo": 54,
         "ofertaId": "MLB4770369827",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 53.99
       },
       "amazon": {
@@ -1488,7 +1488,7 @@
         "titulo": "Fralda Pom Pom Protek Proteção de Mãe G 68 Unidades",
         "qtdNoTitulo": 68,
         "ofertaId": "MLB3338977450",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 56.8
       },
       "amazon": {
@@ -1512,7 +1512,7 @@
         "titulo": "Fralda Pom Pom Derma Protek Hiper Xxg 50 Unidades",
         "qtdNoTitulo": 50,
         "ofertaId": "MLB5192636083",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 82.9
       },
       "amazon": {
@@ -1529,14 +1529,14 @@
       "tamanho": "M",
       "qtd": 52,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB77546824?pdp_filters=item_id%3AMLB5341678879&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 53.64,
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB77546824?pdp_filters=item_id%3AMLB5360101005&matt_word=basa5967489&matt_tool=94667809",
+        "preco": 51.7,
         "freteGratis": true,
         "disponivel": true,
         "titulo": "Fralda Pampers Supersec M 52 Unidades",
         "qtdNoTitulo": 52,
-        "ofertaId": "MLB5341678879",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "ofertaId": "MLB5360101005",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 53.64
       },
       "amazon": {
@@ -1560,7 +1560,7 @@
         "titulo": "Fralda Pampers Supersec bag tamanho g 80 unidades",
         "qtdNoTitulo": 80,
         "ofertaId": "MLB4500781711",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 147.9
       },
       "amazon": {
@@ -1584,7 +1584,7 @@
         "titulo": "Fralda Huggies Rápida Absorção M - 92 unidades",
         "qtdNoTitulo": 92,
         "ofertaId": "MLB4902546301",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 78.9
       },
       "amazon": {
@@ -1602,13 +1602,13 @@
       "qtd": 22,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB30925599?pdp_filters=item_id%3AMLB4806728718&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 45.96,
+        "preco": 43.66,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Huggies Pants Roupinha Rápida Absorção XXG 22 unidades",
         "qtdNoTitulo": 22,
         "ofertaId": "MLB4806728718",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 45.96
       },
       "amazon": {
@@ -1632,7 +1632,7 @@
         "titulo": "Fralda Turma da Mônica Baby Shortinho Jumbo G 22 Unidades",
         "qtdNoTitulo": 22,
         "ofertaId": "MLB6946374602",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 39.99
       },
       "amazon": {
@@ -1656,7 +1656,7 @@
         "titulo": "Fralda Turma da Mônica Baby Shortinho Jumbo XG 20 Unidades",
         "qtdNoTitulo": 20,
         "ofertaId": "MLB4716079229",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 39.99
       },
       "amazon": {
@@ -1680,7 +1680,7 @@
         "titulo": "Fralda Turma da Mônica Baby Premium XXG com 22 Unidades",
         "qtdNoTitulo": 22,
         "ofertaId": "MLB4433147563",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 36.5
       },
       "amazon": {
@@ -1704,7 +1704,7 @@
         "titulo": "Fralda Personal Baby Hiper Xxg 50un",
         "qtdNoTitulo": 50,
         "ofertaId": "MLB5192648015",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 69.9
       },
       "amazon": {
@@ -1722,13 +1722,13 @@
       "qtd": 48,
       "mercadolivre": {
         "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB21419669?pdp_filters=item_id%3AMLB6815530734&matt_word=basa5967489&matt_tool=94667809",
-        "preco": 68.79,
+        "preco": 63.29,
         "freteGratis": false,
         "disponivel": true,
         "titulo": "Fralda Personal Baby Pants M - 48 Unidades",
         "qtdNoTitulo": 48,
         "ofertaId": "MLB6815530734",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 68.79
       },
       "amazon": {
@@ -1752,7 +1752,7 @@
         "titulo": "Kit 3 Fralda Huggies Natural Care Rn - 102 Fraldas Recém-nasci Recém-nascido (rn) Sem Gênero",
         "qtdNoTitulo": 102,
         "ofertaId": "MLB7487527248",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 154.9
       },
       "amazon": {
@@ -1776,7 +1776,7 @@
         "titulo": "Kit 3 Fralda Huggies Supreme Care Tamanho P - Total 144 Un",
         "qtdNoTitulo": 144,
         "ofertaId": "MLB6005366900",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 189.18
       },
       "amazon": {
@@ -1800,7 +1800,7 @@
         "titulo": "Kit Fralda Turma Da Mônica Baby P Economica Atacado Fardo Pequeno (p) Sem Gênero",
         "qtdNoTitulo": null,
         "ofertaId": "MLB4715440779",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 266
       },
       "amazon": {
@@ -1824,7 +1824,7 @@
         "titulo": "Kit Fralda Turma da Mônica Baby P com 5 Pacotes",
         "qtdNoTitulo": null,
         "ofertaId": "MLB6177626272",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 99.9
       },
       "amazon": {
@@ -1848,7 +1848,7 @@
         "titulo": "Fralda Mamypoko Calça Dia & Noite Tam M-4paco C 58tira",
         "qtdNoTitulo": null,
         "ofertaId": "MLB5458032396",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 343
       },
       "amazon": {
@@ -1872,7 +1872,7 @@
         "titulo": "Fralda Mamypoko Calça Dia & Noite Tam Xg-4paco C 42tira",
         "qtdNoTitulo": null,
         "ofertaId": "MLB4465850545",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 356.38
       },
       "amazon": {
@@ -1896,7 +1896,7 @@
         "titulo": "Kit 4 Pacotes Fralda Pom Pom - Tam. G 26 Unidades",
         "qtdNoTitulo": 26,
         "ofertaId": "MLB4305249953",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 140
       },
       "amazon": {
@@ -1920,7 +1920,7 @@
         "titulo": "Kit 4 Fralda Pom Pom Protek Proteção De Mãe Xg 38un Cada",
         "qtdNoTitulo": 38,
         "ofertaId": "MLB4501052438",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 200.46
       },
       "amazon": {
@@ -1944,7 +1944,7 @@
         "titulo": "Kit 4 Pacotes Fralda Personal Baby Premium Xg 104 Unidades Extra Grande (xg) Sem Gênero",
         "qtdNoTitulo": 104,
         "ofertaId": "MLB7585028006",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 172.9
       },
       "amazon": {
@@ -1968,7 +1968,7 @@
         "titulo": "Fralda Cremer Magic Care Hiper Kit Com 160 Unidades Xxg Tamanho Extra extra grande (XXG)",
         "qtdNoTitulo": 160,
         "ofertaId": "MLB4096940079",
-        "consultadoEm": "2026-10-20T09:22:31.336Z",
+        "consultadoEm": "2026-10-20T21:20:30.273Z",
         "precoAnterior": 299
       },
       "amazon": {
