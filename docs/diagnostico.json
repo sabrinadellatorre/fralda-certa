@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-30T21:25:19.556Z",
+  "geradoEm": "2026-10-31T09:27:50.199Z",
   "tokenGerado": true,
   "consultas": [
     {
@@ -2753,8 +2753,38 @@
     {
       "caminho": "/products/MLB41492638/items?limit=20",
       "comToken": true,
-      "status": 404,
-      "resposta": "{\"message\": \"No winners found\",\"error\": \"not_found\",\"status\": 404,\"cause\": []}"
+      "status": 200,
+      "chaves": [
+        "paging",
+        "results",
+        "experiments"
+      ]
+    },
+    {
+      "exemploOferta": [
+        "item_id",
+        "site_id",
+        "seller_id",
+        "accepts_mercadopago",
+        "price",
+        "category_id",
+        "currency_id",
+        "warranty",
+        "condition",
+        "listing_type_id",
+        "international_delivery_mode",
+        "tier",
+        "inventory_id",
+        "tags",
+        "deal_ids",
+        "official_store_id",
+        "original_price",
+        "shipping",
+        "seller_address",
+        "sale_terms",
+        "user_product_id",
+        "min_purchase_unit"
+      ]
     },
     {
       "caminho": "/products/MLB41558378",
