@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-05T17:00:22.320Z",
+  "geradoEm": "2026-11-06T01:18:40.969Z",
   "tokenGerado": true,
   "consultas": [
     {
@@ -1919,24 +1919,8 @@
     {
       "caminho": "/products/MLB23943243",
       "comToken": true,
-      "status": 200,
-      "chaves": [
-        "id",
-        "catalog_product_id",
-        "status",
-        "pdp_types",
-        "domain_id",
-        "permalink",
-        "name",
-        "family_name",
-        "type",
-        "buy_box_winner",
-        "pickers",
-        "pictures",
-        "description_pictures",
-        "main_features",
-        "disclaimers"
-      ]
+      "status": 404,
+      "resposta": "{\"error\":\"product_not_found\",\"message\":\"Product not found. [product_id:MLB23943243]\",\"status\":404}"
     },
     {
       "caminho": "/products/MLB23943243/items?limit=20",
