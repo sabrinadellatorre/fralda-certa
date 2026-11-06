@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-06T01:18:40.969Z",
+  "geradoEm": "2026-11-06T16:31:40.834Z",
   "tokenGerado": true,
   "consultas": [
     {
@@ -2359,7 +2359,7 @@
     {
       "caminho": "/products/MLB32644661/items?limit=20",
       "comToken": true,
-      "status": 200,
+      "status": 206,
       "chaves": [
         "paging",
         "results",
