@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T19:08:36.608Z",
+  "geradoEm": "2026-11-17T03:20:51.440Z",
   "tokenGerado": true,
   "consultas": [
     {
@@ -1593,7 +1593,7 @@
     {
       "caminho": "/products/MLB26817681/items?limit=20",
       "comToken": true,
-      "status": 206,
+      "status": 200,
       "chaves": [
         "paging",
         "results",
