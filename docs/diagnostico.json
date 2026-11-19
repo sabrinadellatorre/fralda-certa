@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T17:43:04.130Z",
+  "geradoEm": "2026-11-19T02:10:13.127Z",
   "tokenGerado": true,
   "consultas": [
     {
@@ -781,7 +781,7 @@
     {
       "caminho": "/products/MLB19485095/items?limit=20",
       "comToken": true,
-      "status": 200,
+      "status": 206,
       "chaves": [
         "paging",
         "results",
