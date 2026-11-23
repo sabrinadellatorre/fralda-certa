@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T01:19:06.200Z",
+  "geradoEm": "2026-11-23T20:46:19.377Z",
   "site": {
     "titulo": "Fralda Certa",
     "handle": "@sabrinadellatorre",
@@ -17,15 +17,13 @@
       "tamanho": "P",
       "qtd": 50,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17335903?pdp_filters=item_id%3AMLB6817290136&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17335903?matt_word=basa5967489&matt_tool=94667809",
         "preco": 56,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Confort Sec P 50 unidades",
-        "qtdNoTitulo": 50,
-        "ofertaId": "MLB6817290136",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 56
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 56,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -41,15 +39,13 @@
       "tamanho": "M",
       "qtd": 196,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB27946201?pdp_filters=item_id%3AMLB5596175595&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB27946201?matt_word=basa5967489&matt_tool=94667809",
         "preco": 233.96,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
-        "qtdNoTitulo": 196,
-        "ofertaId": "MLB5596175595",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 235
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 235,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -65,15 +61,13 @@
       "tamanho": "G",
       "qtd": 60,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18392698?pdp_filters=item_id%3AMLB4702124885&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18392698?matt_word=basa5967489&matt_tool=94667809",
         "preco": 87.39,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Confort Sec Tamanho G, 60 Unidades",
-        "qtdNoTitulo": 60,
-        "ofertaId": "MLB4702124885",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 87.39
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 87.39,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -89,15 +83,13 @@
       "tamanho": "G",
       "qtd": 168,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB27946625?pdp_filters=item_id%3AMLB5618733324&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB27946625?matt_word=basa5967489&matt_tool=94667809",
         "preco": 228.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
-        "qtdNoTitulo": 168,
-        "ofertaId": "MLB5618733324",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 228.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 228.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -113,15 +105,13 @@
       "tamanho": "XG",
       "qtd": 116,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336419?pdp_filters=item_id%3AMLB7542385884&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336419?matt_word=basa5967489&matt_tool=94667809",
         "preco": 179.04,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
-        "qtdNoTitulo": 116,
-        "ofertaId": "MLB7542385884",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 179.04
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 179.04,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -137,15 +127,13 @@
       "tamanho": "XXG",
       "qtd": 112,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19466197?pdp_filters=item_id%3AMLB4170484097&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19466197?matt_word=basa5967489&matt_tool=94667809",
         "preco": 178.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
-        "qtdNoTitulo": 112,
-        "ofertaId": "MLB4170484097",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 178.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 178.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -161,15 +149,13 @@
       "tamanho": "P",
       "qtd": 40,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23414358?pdp_filters=item_id%3AMLB8021956012&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23414358?matt_word=basa5967489&matt_tool=94667809",
         "preco": 95.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-        "qtdNoTitulo": 40,
-        "ofertaId": "MLB8021956012",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 59.99
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 59.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -185,15 +171,13 @@
       "tamanho": "M",
       "qtd": 80,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23414307?pdp_filters=item_id%3AMLB5210984325&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23414307?matt_word=basa5967489&matt_tool=94667809",
         "preco": 115,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Premium Care Tamanho M 80 Unidades",
-        "qtdNoTitulo": 80,
-        "ofertaId": "MLB5210984325",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 115
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 115,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -209,15 +193,13 @@
       "tamanho": "G",
       "qtd": 136,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB44226827?pdp_filters=item_id%3AMLB5507192284&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB44226827?matt_word=basa5967489&matt_tool=94667809",
         "preco": 224.81,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Premium Care Tamanho G - 136 Unidades",
-        "qtdNoTitulo": 136,
-        "ofertaId": "MLB5507192284",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 224.81
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 224.81,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -233,15 +215,13 @@
       "tamanho": "XG",
       "qtd": 120,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB44160420?pdp_filters=item_id%3AMLB5573427435&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB44160420?matt_word=basa5967489&matt_tool=94667809",
         "preco": 312.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Premium Care Tamanho XG, 120 Unidades",
-        "qtdNoTitulo": 120,
-        "ofertaId": "MLB5573427435",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 312.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 312.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -257,15 +237,13 @@
       "tamanho": "XXG",
       "qtd": 84,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB48608312?pdp_filters=item_id%3AMLB5563269805&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB48608312?matt_word=basa5967489&matt_tool=94667809",
         "preco": 221,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Premium Care Tamanho XXG 84 Unidades",
-        "qtdNoTitulo": 84,
-        "ofertaId": "MLB5563269805",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 221
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 221,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -281,15 +259,13 @@
       "tamanho": "P",
       "qtd": 32,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB68581730?pdp_filters=item_id%3AMLB5138481615&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB68581730?matt_word=basa5967489&matt_tool=94667809",
         "preco": 39,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Pants Ajuste Total Descartável Pequeno (p) Sem Gênero",
-        "qtdNoTitulo": null,
-        "ofertaId": "MLB5138481615",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 39
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 39,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -305,15 +281,13 @@
       "tamanho": "M",
       "qtd": 112,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19485102?pdp_filters=item_id%3AMLB7963758450&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19485102?matt_word=basa5967489&matt_tool=94667809",
         "preco": 149.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Pants Ajuste Total M 112 Unidades",
-        "qtdNoTitulo": 112,
-        "ofertaId": "MLB7963758450",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 149.99
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 149.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -329,15 +303,13 @@
       "tamanho": "G",
       "qtd": 94,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19485095?pdp_filters=item_id%3AMLB7619195700&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19485095?matt_word=basa5967489&matt_tool=94667809",
         "preco": 192,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 94 Unidades",
-        "qtdNoTitulo": 94,
-        "ofertaId": "MLB7619195700",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 192
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 192,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -353,15 +325,13 @@
       "tamanho": "XG",
       "qtd": 86,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19485104?pdp_filters=item_id%3AMLB5545141373&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19485104?matt_word=basa5967489&matt_tool=94667809",
         "preco": 139.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Pants Ajuste Total XG, 86 Unidades",
-        "qtdNoTitulo": 86,
-        "ofertaId": "MLB5545141373",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 139.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 139.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -377,15 +347,13 @@
       "tamanho": "XXG",
       "qtd": 60,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18715385?pdp_filters=item_id%3AMLB3301720417&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=basa5967489&matt_tool=94667809",
         "preco": 120.09,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
-        "qtdNoTitulo": 60,
-        "ofertaId": "MLB3301720417",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 120.09
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 120.09,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -401,15 +369,13 @@
       "tamanho": "M",
       "qtd": 124,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19159742?pdp_filters=item_id%3AMLB7995182898&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19159742?matt_word=basa5967489&matt_tool=94667809",
         "preco": 208.87,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Premium Care Pants Tamanho M 124 Unidades",
-        "qtdNoTitulo": 124,
-        "ofertaId": "MLB7995182898",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 198.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 198.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -425,15 +391,13 @@
       "tamanho": "G",
       "qtd": 112,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19153445?pdp_filters=item_id%3AMLB4176556265&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19153445?matt_word=basa5967489&matt_tool=94667809",
         "preco": 184.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Premium Care Pants Tamanho G 112 Unidades",
-        "qtdNoTitulo": 112,
-        "ofertaId": "MLB4176556265",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 184.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 184.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -449,15 +413,13 @@
       "tamanho": "XG",
       "qtd": 96,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19153447?pdp_filters=item_id%3AMLB7897135312&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19153447?matt_word=basa5967489&matt_tool=94667809",
         "preco": 189.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Premium Care Pants Tamanho XG 96 Unidades",
-        "qtdNoTitulo": 96,
-        "ofertaId": "MLB7897135312",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 189.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 189.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -473,15 +435,13 @@
       "tamanho": "XXG",
       "qtd": 60,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19543873?pdp_filters=item_id%3AMLB5595948709&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19543873?matt_word=basa5967489&matt_tool=94667809",
         "preco": 149.99,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Pants Premium Care XXG 60 unidades",
-        "qtdNoTitulo": 60,
-        "ofertaId": "MLB5595948709",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 150
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 150,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -497,15 +457,13 @@
       "tamanho": "P",
       "qtd": 32,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19159746?pdp_filters=item_id%3AMLB5541010100&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19159746?matt_word=basa5967489&matt_tool=94667809",
         "preco": 29,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Tripla Proteção P 32 unidades",
-        "qtdNoTitulo": 32,
-        "ofertaId": "MLB5541010100",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 29
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 29,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -521,15 +479,13 @@
       "tamanho": "M",
       "qtd": 92,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB24887894?pdp_filters=item_id%3AMLB3844673917&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB24887894?matt_word=basa5967489&matt_tool=94667809",
         "preco": 79,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Tripla Proteção M - 92 Fraldas",
-        "qtdNoTitulo": 92,
-        "ofertaId": "MLB3844673917",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 79
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 79,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -545,15 +501,13 @@
       "tamanho": "G",
       "qtd": 36,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336422?pdp_filters=item_id%3AMLB3438565294&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=basa5967489&matt_tool=94667809",
         "preco": 26,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Tripla Proteção G 36 unidades",
-        "qtdNoTitulo": 36,
-        "ofertaId": "MLB3438565294",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 26
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 26,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -569,15 +523,13 @@
       "tamanho": "XG",
       "qtd": 32,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336271?pdp_filters=item_id%3AMLB6015210084&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336271?matt_word=basa5967489&matt_tool=94667809",
         "preco": 48,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Tripla Proteção Xg 32 Unidades",
-        "qtdNoTitulo": 32,
-        "ofertaId": "MLB6015210084",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 48
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 48,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -593,15 +545,13 @@
       "tamanho": "XXG",
       "qtd": 66,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336028?pdp_filters=item_id%3AMLB4999689953&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336028?matt_word=basa5967489&matt_tool=94667809",
         "preco": 94.99,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Rápida Absorção XXG 66 Unidades",
-        "qtdNoTitulo": 66,
-        "ofertaId": "MLB4999689953",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 94.99
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 94.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -617,15 +567,13 @@
       "tamanho": "M",
       "qtd": 104,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB48644350?pdp_filters=item_id%3AMLB6888327630&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB48644350?matt_word=basa5967489&matt_tool=94667809",
         "preco": 140,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Supreme Care M 104 Unidades Gênero Sem gênero Tamanho Médio (M)",
-        "qtdNoTitulo": 104,
-        "ofertaId": "MLB6888327630",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 140
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 140,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -641,15 +589,13 @@
       "tamanho": "XG",
       "qtd": 56,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB26817682?pdp_filters=item_id%3AMLB5311953479&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB26817682?matt_word=basa5967489&matt_tool=94667809",
         "preco": 71,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Supreme Care Xg C/56 Gênero Sem Gênero Tamanho Extra Grande (xg)",
-        "qtdNoTitulo": null,
-        "ofertaId": "MLB5311953479",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 71
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 71,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -665,15 +611,13 @@
       "tamanho": "XXG",
       "qtd": 54,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB26817681?pdp_filters=item_id%3AMLB5707587550&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB26817681?matt_word=basa5967489&matt_tool=94667809",
         "preco": 130.53,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Suplreme Care Xxg C/54 Gênero Sem Gênero Tamanho Extra Extra Grande (xxg)",
-        "qtdNoTitulo": null,
-        "ofertaId": "MLB5707587550",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 130.53
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 130.53,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -689,15 +633,13 @@
       "tamanho": "M",
       "qtd": 22,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB46420503?pdp_filters=item_id%3AMLB5441094714&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB46420503?matt_word=basa5967489&matt_tool=94667809",
         "preco": 32,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Roupinha Supreme Care M 22 Unidades",
-        "qtdNoTitulo": 22,
-        "ofertaId": "MLB5441094714",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 32
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 32,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -713,15 +655,13 @@
       "tamanho": "M",
       "qtd": 68,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB31641226?pdp_filters=item_id%3AMLB3588145449&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB31641226?matt_word=basa5967489&matt_tool=94667809",
         "preco": 91.94,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Calça Mamypoko Dia&noite Giga M 68 Unidades",
-        "qtdNoTitulo": 68,
-        "ofertaId": "MLB3588145449",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 91.94
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 91.94,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -737,15 +677,13 @@
       "tamanho": "XG",
       "qtd": 52,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB31764580?pdp_filters=item_id%3AMLB3588196655&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB31764580?matt_word=basa5967489&matt_tool=94667809",
         "preco": 92.63,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "MamyPoko Fralda Calça Mamypoko Giga Xg 52 Unidades",
-        "qtdNoTitulo": 52,
-        "ofertaId": "MLB3588196655",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 92.63
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 92.63,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -761,15 +699,13 @@
       "tamanho": "XXG",
       "qtd": 44,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB31737564?pdp_filters=item_id%3AMLB3588145115&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB31737564?matt_word=basa5967489&matt_tool=94667809",
         "preco": 102.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Calça Mamypoko Dia&noite Giga Xxg 44 Unidades",
-        "qtdNoTitulo": 44,
-        "ofertaId": "MLB3588145115",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 102.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 102.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -785,15 +721,13 @@
       "tamanho": "RN",
       "qtd": 72,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41255210?pdp_filters=item_id%3AMLB7177134034&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41255210?matt_word=basa5967489&matt_tool=94667809",
         "preco": 56.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Kit Fralda Turma Da Mônica Rn - 72 Unidades Tamanho Recém-nascido (RN)",
-        "qtdNoTitulo": 72,
-        "ofertaId": "MLB7177134034",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 56.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 56.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -831,15 +765,13 @@
       "tamanho": "G",
       "qtd": 44,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18392677?pdp_filters=item_id%3AMLB5514732534&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18392677?matt_word=basa5967489&matt_tool=94667809",
         "preco": 36.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Turma Da Mônica Baby Mega G 44 Unidades G",
-        "qtdNoTitulo": 44,
-        "ofertaId": "MLB5514732534",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 36.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 36.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -855,15 +787,13 @@
       "tamanho": "XG",
       "qtd": 26,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB35961334?pdp_filters=item_id%3AMLB7411131394&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB35961334?matt_word=basa5967489&matt_tool=94667809",
         "preco": 115.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Turma da Mônica Baby Premium para Bebês Extra Grande (XG) – 26 Unidades",
-        "qtdNoTitulo": 26,
-        "ofertaId": "MLB7411131394",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 115.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 115.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -879,15 +809,13 @@
       "tamanho": "XXG",
       "qtd": 16,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18715381?pdp_filters=item_id%3AMLB4903392107&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18715381?matt_word=basa5967489&matt_tool=94667809",
         "preco": 19.49,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Turma da Mônica Baby XXG com 16 Unidades",
-        "qtdNoTitulo": 16,
-        "ofertaId": "MLB4903392107",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 19.49
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 19.49,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -903,15 +831,13 @@
       "tamanho": "RN",
       "qtd": 40,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB26521340?pdp_filters=item_id%3AMLB3932925294&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB26521340?matt_word=basa5967489&matt_tool=94667809",
         "preco": 56.09,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Personal Baby Premium Protection - Tam: RN até P Com 40 Fraldas",
-        "qtdNoTitulo": 40,
-        "ofertaId": "MLB3932925294",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 56.09
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 56.09,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -927,15 +853,13 @@
       "tamanho": "XG",
       "qtd": 66,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB39918944?pdp_filters=item_id%3AMLB5187055580&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB39918944?matt_word=basa5967489&matt_tool=94667809",
         "preco": 63.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Personal Protect & Sec XG com 66 Unidades",
-        "qtdNoTitulo": 66,
-        "ofertaId": "MLB5187055580",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 63.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 63.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -951,15 +875,13 @@
       "tamanho": "M",
       "qtd": 52,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB28017912?pdp_filters=item_id%3AMLB5226723867&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB28017912?matt_word=basa5967489&matt_tool=94667809",
         "preco": 39.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda personal baby total protect pants m 52 unidades",
-        "qtdNoTitulo": 52,
-        "ofertaId": "MLB5226723867",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 39.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 39.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -975,15 +897,13 @@
       "tamanho": "XXG",
       "qtd": 36,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23695767?pdp_filters=item_id%3AMLB6991422634&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB23695767?matt_word=basa5967489&matt_tool=94667809",
         "preco": 59.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Personal Baby Pants Total Protect Xxg 14-25KG Com 36 Unidades",
-        "qtdNoTitulo": 36,
-        "ofertaId": "MLB6991422634",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 59.99
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 59.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -999,15 +919,13 @@
       "tamanho": "M",
       "qtd": 38,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB32644661?pdp_filters=item_id%3AMLB5031951076&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB32644661?matt_word=basa5967489&matt_tool=94667809",
         "preco": 25,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Descartável Babysec Ultrasec M 38 Unidades Médio (m)",
-        "qtdNoTitulo": 38,
-        "ofertaId": "MLB5031951076",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 25
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 25,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1023,15 +941,13 @@
       "tamanho": "M",
       "qtd": 68,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB35435128?pdp_filters=item_id%3AMLB5251417571&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB35435128?matt_word=basa5967489&matt_tool=94667809",
         "preco": 78.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Babysec Premium M 68 unidades",
-        "qtdNoTitulo": 68,
-        "ofertaId": "MLB5251417571",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 78.99
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 78.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1047,15 +963,13 @@
       "tamanho": "XG",
       "qtd": 12,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41165267?pdp_filters=item_id%3AMLB4536927419&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41165267?matt_word=basa5967489&matt_tool=94667809",
         "preco": 31.79,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Babysec Ultra Jumbinho 12un Xg",
-        "qtdNoTitulo": 12,
-        "ofertaId": "MLB4536927419",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 31.79
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 31.79,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1071,15 +985,13 @@
       "tamanho": "XXG",
       "qtd": 20,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB45399497?pdp_filters=item_id%3AMLB5106539635&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB45399497?matt_word=basa5967489&matt_tool=94667809",
         "preco": 37.97,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "FRALDA BABYSEC ULTRASEC SHORTINHO MEGA XXG 20 UNIDADES",
-        "qtdNoTitulo": 20,
-        "ofertaId": "MLB5106539635",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 37.97
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 37.97,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1095,15 +1007,13 @@
       "tamanho": "P",
       "qtd": 36,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41898472?pdp_filters=item_id%3AMLB5122273082&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41898472?matt_word=basa5967489&matt_tool=94667809",
         "preco": 26.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Cremer Econômica P 36 Unidades Gênero Sem gênero Tamanho Pequeno (P)",
-        "qtdNoTitulo": 36,
-        "ofertaId": "MLB5122273082",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 26.99
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 26.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1119,15 +1029,13 @@
       "tamanho": "M",
       "qtd": 34,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB40345827?pdp_filters=item_id%3AMLB3994110989&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB40345827?matt_word=basa5967489&matt_tool=94667809",
         "preco": 36.16,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Cremer Econômica M 34 Unidades",
-        "qtdNoTitulo": 34,
-        "ofertaId": "MLB3994110989",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 36.16
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 36.16,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1143,15 +1051,13 @@
       "tamanho": "G",
       "qtd": 30,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41492638?pdp_filters=item_id%3AMLB5147380914&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41492638?matt_word=basa5967489&matt_tool=94667809",
         "preco": 36.16,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Cremer Econômica G 30 Unidades",
-        "qtdNoTitulo": 30,
-        "ofertaId": "MLB5147380914",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 36.16
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 36.16,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1167,15 +1073,13 @@
       "tamanho": "XG",
       "qtd": 24,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41558378?pdp_filters=item_id%3AMLB3879343705&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB41558378?matt_word=basa5967489&matt_tool=94667809",
         "preco": 24.49,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Cremer Econômica XG 24 Unidades",
-        "qtdNoTitulo": 24,
-        "ofertaId": "MLB3879343705",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 24.49
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 24.49,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1191,15 +1095,13 @@
       "tamanho": "P",
       "qtd": 24,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB69707100?pdp_filters=item_id%3AMLB3293412765&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB69707100?matt_word=basa5967489&matt_tool=94667809",
         "preco": 29.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Cremer Jumbo P 24 Unidades Pequeno (p) Sem Gênero",
-        "qtdNoTitulo": 24,
-        "ofertaId": "MLB3293412765",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 29.99
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 29.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1215,15 +1117,13 @@
       "tamanho": "XG",
       "qtd": 52,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336279?pdp_filters=item_id%3AMLB7744256962&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336279?matt_word=basa5967489&matt_tool=94667809",
         "preco": 61.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Cremer Hiper Magic Care Xg 52 Unidades Sem Gênero",
-        "qtdNoTitulo": 52,
-        "ofertaId": "MLB7744256962",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 61.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 61.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1239,15 +1139,13 @@
       "tamanho": "RN",
       "qtd": 18,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19939777?pdp_filters=item_id%3AMLB5940316926&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19939777?matt_word=basa5967489&matt_tool=94667809",
         "preco": 24.49,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Mili Descartável Lovecare Rn C/18 Unidades",
-        "qtdNoTitulo": 18,
-        "ofertaId": "MLB5940316926",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 24.49
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 24.49,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1263,15 +1161,13 @@
       "tamanho": "M",
       "qtd": 104,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB20199409?pdp_filters=item_id%3AMLB4266072805&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB20199409?matt_word=basa5967489&matt_tool=94667809",
         "preco": 187.53,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Mili Descartável Love Care- Tam: M- 104 Fraldas",
-        "qtdNoTitulo": 104,
-        "ofertaId": "MLB4266072805",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 187.53
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 187.53,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1287,15 +1183,13 @@
       "tamanho": "G",
       "qtd": 78,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB32265910?pdp_filters=item_id%3AMLB4109802411&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB32265910?matt_word=basa5967489&matt_tool=94667809",
         "preco": 89.99,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Mili Baby Giga G 78 Unidades",
-        "qtdNoTitulo": 78,
-        "ofertaId": "MLB4109802411",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 89.99
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 89.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1311,15 +1205,13 @@
       "tamanho": "M",
       "qtd": 72,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB53591501?pdp_filters=item_id%3AMLB4153182831&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB53591501?matt_word=basa5967489&matt_tool=94667809",
         "preco": 90.16,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Mili Love & Care Pants - Tamanho: M - Com 72 Fraldas Médio (m) Sem Gênero",
-        "qtdNoTitulo": 72,
-        "ofertaId": "MLB4153182831",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 90.16
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 90.16,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1335,15 +1227,13 @@
       "tamanho": "G",
       "qtd": 60,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB53590324?pdp_filters=item_id%3AMLB5552887374&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB53590324?matt_word=basa5967489&matt_tool=94667809",
         "preco": 90.16,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Mili Love & Care Pants - Tamanho: G - Com 60 Fraldas Grande (g) Sem Gênero",
-        "qtdNoTitulo": 60,
-        "ofertaId": "MLB5552887374",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 90.16
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 90.16,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1359,15 +1249,13 @@
       "tamanho": "XG",
       "qtd": 48,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB53591057?pdp_filters=item_id%3AMLB5552943330&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB53591057?matt_word=basa5967489&matt_tool=94667809",
         "preco": 90.16,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Mili Love & Care Pants - Tamanho: Xg - Com 48 Fraldas Extra Grande (xg) Sem Gênero",
-        "qtdNoTitulo": 48,
-        "ofertaId": "MLB5552943330",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 90.16
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 90.16,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1383,15 +1271,13 @@
       "tamanho": "XXG",
       "qtd": 48,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB53593857?pdp_filters=item_id%3AMLB5553161776&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB53593857?matt_word=basa5967489&matt_tool=94667809",
         "preco": 90.16,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Mili Love & Care Pants XXG para Bebês, 48 Unidades",
-        "qtdNoTitulo": 48,
-        "ofertaId": "MLB5553161776",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 90.16
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 90.16,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1407,15 +1293,13 @@
       "tamanho": "P",
       "qtd": 30,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18715384?pdp_filters=item_id%3AMLB4786780511&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB18715384?matt_word=basa5967489&matt_tool=94667809",
         "preco": 33.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pom Pom Clássica Para Bebê Tamanho P Com 30 Unidades",
-        "qtdNoTitulo": 30,
-        "ofertaId": "MLB4786780511",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 33.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 33.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1431,15 +1315,13 @@
       "tamanho": "RN",
       "qtd": 18,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17335763?pdp_filters=item_id%3AMLB4010595779&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17335763?matt_word=basa5967489&matt_tool=94667809",
         "preco": 37,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pom Pom Protek Proteção de Mãe RN Para Recém-Nascido, Pacote Com 18 Fraldas",
-        "qtdNoTitulo": 18,
-        "ofertaId": "MLB4010595779",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 37
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 37,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1455,15 +1337,13 @@
       "tamanho": "P",
       "qtd": 54,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB65395268?pdp_filters=item_id%3AMLB4770369827&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB65395268?matt_word=basa5967489&matt_tool=94667809",
         "preco": 49.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pom Pom Protek Proteção De Mãe Mega P 54 Unidades Gên",
-        "qtdNoTitulo": 54,
-        "ofertaId": "MLB4770369827",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 49.99
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 49.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1479,15 +1359,13 @@
       "tamanho": "G",
       "qtd": 68,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19516361?pdp_filters=item_id%3AMLB3338977450&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB19516361?matt_word=basa5967489&matt_tool=94667809",
         "preco": 68.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pom Pom Protek Proteção de Mãe G 68 Unidades",
-        "qtdNoTitulo": 68,
-        "ofertaId": "MLB3338977450",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 67.8
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 67.8,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1503,15 +1381,13 @@
       "tamanho": "XXG",
       "qtd": 50,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB68385470?pdp_filters=item_id%3AMLB7246096492&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB68385470?matt_word=basa5967489&matt_tool=94667809",
         "preco": 59.81,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pom Pom Derma Protek Hiper Xxg 50 Unidades",
-        "qtdNoTitulo": 50,
-        "ofertaId": "MLB7246096492",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 59.81
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 59.81,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1527,15 +1403,13 @@
       "tamanho": "M",
       "qtd": 52,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB77546824?pdp_filters=item_id%3AMLB4997912419&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB77546824?matt_word=basa5967489&matt_tool=94667809",
         "preco": 69.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Supersec M 52 Unidades",
-        "qtdNoTitulo": 52,
-        "ofertaId": "MLB4997912419",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 69.99
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 69.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1551,15 +1425,13 @@
       "tamanho": "G",
       "qtd": 80,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB29587881?pdp_filters=item_id%3AMLB5535351905&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB29587881?matt_word=basa5967489&matt_tool=94667809",
         "preco": 109,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Pampers Supersec bag tamanho g 80 unidades",
-        "qtdNoTitulo": 80,
-        "ofertaId": "MLB5535351905",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 109
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 109,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1575,15 +1447,13 @@
       "tamanho": "M",
       "qtd": 92,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336102?pdp_filters=item_id%3AMLB5453781749&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB17336102?matt_word=basa5967489&matt_tool=94667809",
         "preco": 79.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Huggies Rápida Absorção M - 92 unidades",
-        "qtdNoTitulo": 92,
-        "ofertaId": "MLB5453781749",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 79.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 79.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1621,15 +1491,13 @@
       "tamanho": "G",
       "qtd": 22,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB67485820?pdp_filters=item_id%3AMLB6946374602&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB67485820?matt_word=basa5967489&matt_tool=94667809",
         "preco": 44.52,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Turma da Mônica Baby Shortinho Jumbo G 22 Unidades",
-        "qtdNoTitulo": 22,
-        "ofertaId": "MLB6946374602",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 44.52
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 44.52,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1645,15 +1513,13 @@
       "tamanho": "XG",
       "qtd": 20,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB68405251?pdp_filters=item_id%3AMLB4716079229&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB68405251?matt_word=basa5967489&matt_tool=94667809",
         "preco": 39.99,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Turma da Mônica Baby Shortinho Jumbo XG 20 Unidades",
-        "qtdNoTitulo": 20,
-        "ofertaId": "MLB4716079229",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 39.99
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 39.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1669,15 +1535,13 @@
       "tamanho": "XXG",
       "qtd": 22,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB35954642?pdp_filters=item_id%3AMLB7411132618&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB35954642?matt_word=basa5967489&matt_tool=94667809",
         "preco": 115.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Turma da Mônica Baby Premium XXG com 22 Unidades",
-        "qtdNoTitulo": 22,
-        "ofertaId": "MLB7411132618",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 115.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 115.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1693,15 +1557,13 @@
       "tamanho": "XXG",
       "qtd": 50,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB24572997?pdp_filters=item_id%3AMLB5922265588&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB24572997?matt_word=basa5967489&matt_tool=94667809",
         "preco": 78.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Personal Baby Hiper Xxg 50un",
-        "qtdNoTitulo": 50,
-        "ofertaId": "MLB5922265588",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 78.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 78.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1717,15 +1579,13 @@
       "tamanho": "M",
       "qtd": 48,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB21419669?pdp_filters=item_id%3AMLB7990237660&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB21419669?matt_word=basa5967489&matt_tool=94667809",
         "preco": 59.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Personal Baby Pants M - 48 Unidades",
-        "qtdNoTitulo": 48,
-        "ofertaId": "MLB7990237660",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 59.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 59.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1741,15 +1601,13 @@
       "tamanho": "RN",
       "qtd": 102,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB65284467?pdp_filters=item_id%3AMLB7487527248&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB65284467?matt_word=basa5967489&matt_tool=94667809",
         "preco": 154.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Kit 3 Fralda Huggies Natural Care Rn - 102 Fraldas Recém-nasci Recém-nascido (rn) Sem Gênero",
-        "qtdNoTitulo": 102,
-        "ofertaId": "MLB7487527248",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 153
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 153,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1765,15 +1623,13 @@
       "tamanho": "P",
       "qtd": 144,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB62636548?pdp_filters=item_id%3AMLB5147812573&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB62636548?matt_word=basa5967489&matt_tool=94667809",
         "preco": 203.99,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Kit 3 Fralda Huggies Supreme Care Tamanho P - Total 144 Un",
-        "qtdNoTitulo": 144,
-        "ofertaId": "MLB5147812573",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 203.99
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 203.99,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1811,15 +1667,13 @@
       "tamanho": "P",
       "qtd": 100,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB37724044?pdp_filters=item_id%3AMLB6177626272&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB37724044?matt_word=basa5967489&matt_tool=94667809",
         "preco": 99.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Kit Fralda Turma da Mônica Baby P com 5 Pacotes",
-        "qtdNoTitulo": null,
-        "ofertaId": "MLB6177626272",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 99.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 99.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1835,15 +1689,13 @@
       "tamanho": "M",
       "qtd": 232,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB51653517?pdp_filters=item_id%3AMLB5458032396&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB51653517?matt_word=basa5967489&matt_tool=94667809",
         "preco": 319.9,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Mamypoko Calça Dia & Noite Tam M-4paco C 58tira",
-        "qtdNoTitulo": null,
-        "ofertaId": "MLB5458032396",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 319.9
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 319.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1859,15 +1711,13 @@
       "tamanho": "XG",
       "qtd": 168,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB65344904?pdp_filters=item_id%3AMLB4465850545&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB65344904?matt_word=basa5967489&matt_tool=94667809",
         "preco": 329.5,
-        "freteGratis": false,
-        "disponivel": true,
-        "titulo": "Fralda Mamypoko Calça Dia & Noite Tam Xg-4paco C 42tira",
-        "qtdNoTitulo": null,
-        "ofertaId": "MLB4465850545",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 329.5
+        "disponivel": true,
+        "freteGratis": false,
+        "precoAnterior": 329.5,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1905,15 +1755,13 @@
       "tamanho": "XG",
       "qtd": 152,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB33262895?pdp_filters=item_id%3AMLB4501052438&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB33262895?matt_word=basa5967489&matt_tool=94667809",
         "preco": 192.46,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Kit 4 Fralda Pom Pom Protek Proteção De Mãe Xg 38un Cada",
-        "qtdNoTitulo": 38,
-        "ofertaId": "MLB4501052438",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 192.46
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 192.46,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1929,15 +1777,13 @@
       "tamanho": "XG",
       "qtd": 104,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB77525354?pdp_filters=item_id%3AMLB7585028006&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB77525354?matt_word=basa5967489&matt_tool=94667809",
         "preco": 172.9,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Kit 4 Pacotes Fralda Personal Baby Premium Xg 104 Unidades Extra Grande (xg) Sem Gênero",
-        "qtdNoTitulo": 104,
-        "ofertaId": "MLB7585028006",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 172.9
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 172.9,
+        "erro": true
       },
       "amazon": {
         "preco": null,
@@ -1953,15 +1799,13 @@
       "tamanho": "XXG",
       "qtd": 160,
       "mercadolivre": {
-        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB49248335?pdp_filters=item_id%3AMLB4096940079&matt_word=basa5967489&matt_tool=94667809",
+        "linkAfiliada": "https://www.mercadolivre.com.br/p/MLB49248335?matt_word=basa5967489&matt_tool=94667809",
         "preco": 299,
-        "freteGratis": true,
-        "disponivel": true,
-        "titulo": "Fralda Cremer Magic Care Hiper Kit Com 160 Unidades Xxg Tamanho Extra extra grande (XXG)",
-        "qtdNoTitulo": 160,
-        "ofertaId": "MLB4096940079",
         "consultadoEm": "2026-11-23T01:19:06.200Z",
-        "precoAnterior": 299
+        "disponivel": true,
+        "freteGratis": true,
+        "precoAnterior": 299,
+        "erro": true
       },
       "amazon": {
         "preco": null,
