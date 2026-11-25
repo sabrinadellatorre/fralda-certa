@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T19:51:09.448Z",
+  "geradoEm": "2026-11-25T03:54:02.488Z",
   "tokenGerado": true,
   "consultas": [
     {
@@ -13,6 +13,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -20,21 +21,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB17335903/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB17335903/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB27946201",
@@ -47,6 +47,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -54,21 +55,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB27946201/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB27946201/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB18392698",
@@ -81,6 +81,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -88,21 +89,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB18392698/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB18392698/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB27946625",
@@ -115,6 +115,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -122,21 +123,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB27946625/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB27946625/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB17336419",
@@ -149,6 +149,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -156,21 +157,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB17336419/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB17336419/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB19466197",
@@ -183,6 +183,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -190,21 +191,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19466197/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19466197/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB23414358",
@@ -217,6 +217,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -224,21 +225,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB23414358/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB23414358/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB23414307",
@@ -251,6 +251,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -258,21 +259,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB23414307/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB23414307/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB44226827",
@@ -285,6 +285,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -292,21 +293,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB44226827/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB44226827/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB44160420",
@@ -319,6 +319,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -326,8 +327,7 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
@@ -340,7 +340,7 @@
       "caminho": "/products/MLB44160420/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB48608312",
@@ -353,6 +353,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -360,21 +361,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB48608312/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB48608312/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB68581730",
@@ -387,6 +387,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -394,8 +395,7 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
@@ -408,7 +408,7 @@
       "caminho": "/products/MLB68581730/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB19485102",
@@ -421,6 +421,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -428,21 +429,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19485102/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB19485102/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19485095",
@@ -455,6 +455,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -462,21 +463,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19485095/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB19485095/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB19485104",
@@ -489,6 +489,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -496,21 +497,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19485104/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19485104/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB18715385",
@@ -523,6 +523,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -530,21 +531,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB18715385/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB18715385/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19159742",
@@ -557,6 +557,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -564,21 +565,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19159742/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19159742/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB19153445",
@@ -591,6 +591,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -598,21 +599,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19153445/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19153445/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB19153447",
@@ -625,6 +625,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -632,21 +633,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19153447/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB19153447/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19543873",
@@ -659,6 +659,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -666,21 +667,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19543873/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19543873/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB19159746",
@@ -693,6 +693,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -700,21 +701,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19159746/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB19159746/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB24887894",
@@ -727,6 +727,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -734,21 +735,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB24887894/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB24887894/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB17336422",
@@ -761,6 +761,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -768,15 +769,14 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB17336422/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB17336422/items?limit=20",
@@ -795,6 +795,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -802,21 +803,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB17336271/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB17336271/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB17336028",
@@ -829,6 +829,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -836,21 +837,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB17336028/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB17336028/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB48644350",
@@ -863,6 +863,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -870,21 +871,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB48644350/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB48644350/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB26817682",
@@ -897,6 +897,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -904,21 +905,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB26817682/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB26817682/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB26817681",
@@ -931,6 +931,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -938,21 +939,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB26817681/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB26817681/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB46420503",
@@ -965,6 +965,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -972,21 +973,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB46420503/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB46420503/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB31641226",
@@ -999,6 +999,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1006,21 +1007,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB31641226/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB31641226/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB31764580",
@@ -1033,6 +1033,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1040,21 +1041,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB31764580/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB31764580/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB31737564",
@@ -1067,6 +1067,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1074,21 +1075,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB31737564/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB31737564/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB41255210",
@@ -1101,6 +1101,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1108,15 +1109,14 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB41255210/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB41255210/items?limit=20",
@@ -1134,13 +1134,13 @@
       "caminho": "/products/MLB23943243/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB23943243/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB18392677",
@@ -1153,6 +1153,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1160,21 +1161,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB18392677/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB18392677/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB35961334",
@@ -1187,6 +1187,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1194,21 +1195,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB35961334/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB35961334/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB18715381",
@@ -1221,6 +1221,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1228,21 +1229,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB18715381/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB18715381/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB26521340",
@@ -1255,6 +1255,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1262,21 +1263,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB26521340/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB26521340/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB39918944",
@@ -1289,6 +1289,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1296,21 +1297,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB39918944/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB39918944/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB28017912",
@@ -1323,6 +1323,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1330,21 +1331,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB28017912/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB28017912/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB23695767",
@@ -1357,6 +1357,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1364,8 +1365,7 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
@@ -1378,7 +1378,7 @@
       "caminho": "/products/MLB23695767/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB32644661",
@@ -1391,6 +1391,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1398,21 +1399,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB32644661/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB32644661/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB35435128",
@@ -1425,6 +1425,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1432,21 +1433,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB35435128/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB35435128/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB41165267",
@@ -1459,6 +1459,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1466,21 +1467,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB41165267/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB41165267/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB45399497",
@@ -1493,6 +1493,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1500,21 +1501,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB45399497/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB45399497/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB41898472",
@@ -1527,6 +1527,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1534,21 +1535,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB41898472/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB41898472/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB40345827",
@@ -1561,6 +1561,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1568,21 +1569,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB40345827/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB40345827/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB41492638",
@@ -1595,6 +1595,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1602,21 +1603,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB41492638/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB41492638/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB41558378",
@@ -1629,6 +1629,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1636,21 +1637,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB41558378/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB41558378/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB69707100",
@@ -1663,6 +1663,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1670,21 +1671,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB69707100/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB69707100/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB17336279",
@@ -1697,6 +1697,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1704,21 +1705,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB17336279/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB17336279/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB19939777",
@@ -1731,6 +1731,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1738,21 +1739,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB19939777/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB19939777/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB20199409",
@@ -1765,6 +1765,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1772,21 +1773,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB20199409/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB20199409/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB32265910",
@@ -1799,6 +1799,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1806,21 +1807,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB32265910/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB32265910/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB53591501",
@@ -1833,6 +1833,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1840,21 +1841,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB53591501/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB53591501/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB53590324",
@@ -1867,6 +1867,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1874,21 +1875,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB53590324/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB53590324/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB53591057",
@@ -1901,6 +1901,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1908,15 +1909,14 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB53591057/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB53591057/items?limit=20",
@@ -1935,6 +1935,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1942,8 +1943,7 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
@@ -1956,7 +1956,7 @@
       "caminho": "/products/MLB53593857/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB18715384",
@@ -1969,6 +1969,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -1976,21 +1977,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB18715384/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB18715384/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB17335763",
@@ -2003,6 +2003,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2010,21 +2011,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB17335763/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB17335763/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB65395268",
@@ -2037,6 +2037,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2044,21 +2045,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB65395268/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB65395268/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB19516361",
@@ -2071,6 +2071,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2078,8 +2079,7 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
@@ -2092,7 +2092,7 @@
       "caminho": "/products/MLB19516361/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB68385470",
@@ -2105,6 +2105,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2112,21 +2113,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB68385470/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB68385470/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB77546824",
@@ -2139,6 +2139,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2146,21 +2147,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB77546824/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB77546824/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB29587881",
@@ -2173,6 +2173,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2180,21 +2181,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB29587881/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB29587881/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB17336102",
@@ -2207,6 +2207,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2214,21 +2215,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB17336102/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB17336102/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB30925599",
@@ -2241,6 +2241,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2248,21 +2249,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB30925599/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB30925599/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB67485820",
@@ -2275,6 +2275,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2282,21 +2283,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB67485820/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB67485820/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB68405251",
@@ -2309,6 +2309,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2316,21 +2317,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB68405251/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB68405251/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB35954642",
@@ -2343,6 +2343,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2350,21 +2351,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB35954642/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB35954642/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB24572997",
@@ -2377,6 +2377,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2384,21 +2385,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB24572997/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB24572997/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB21419669",
@@ -2411,6 +2411,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2418,21 +2419,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB21419669/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB21419669/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB65284467",
@@ -2445,6 +2445,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2452,21 +2453,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB65284467/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB65284467/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB62636548",
@@ -2479,6 +2479,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2486,21 +2487,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB62636548/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB62636548/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB65406557",
@@ -2513,6 +2513,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2520,21 +2521,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB65406557/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB65406557/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
     },
     {
       "caminho": "/products/MLB37724044",
@@ -2547,6 +2547,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2554,21 +2555,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB37724044/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB37724044/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB51653517",
@@ -2581,6 +2581,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2588,21 +2589,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB51653517/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB51653517/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB65344904",
@@ -2615,6 +2615,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2622,21 +2623,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB65344904/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB65344904/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB25156392",
@@ -2649,6 +2649,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2656,21 +2657,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB25156392/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
     },
     {
       "caminho": "/products/MLB25156392/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB33262895",
@@ -2683,6 +2683,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2690,21 +2691,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB33262895/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"status\":403,\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB33262895/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB77525354",
@@ -2717,6 +2717,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2724,21 +2725,20 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
       "caminho": "/products/MLB77525354/items?limit=20",
       "comToken": true,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
     },
     {
       "caminho": "/products/MLB77525354/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403,\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\"}\n"
+      "resposta": "{\"blocked_by\":\"PolicyAgent\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     },
     {
       "caminho": "/products/MLB49248335",
@@ -2751,6 +2751,7 @@
         "pdp_types",
         "domain_id",
         "permalink",
+        "sanitized_title",
         "name",
         "family_name",
         "type",
@@ -2758,8 +2759,7 @@
         "pickers",
         "pictures",
         "description_pictures",
-        "main_features",
-        "disclaimers"
+        "main_features"
       ]
     },
     {
@@ -2772,7 +2772,7 @@
       "caminho": "/products/MLB49248335/items?limit=20",
       "comToken": false,
       "status": 403,
-      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"blocked_by\":\"PolicyAgent\",\"status\":403}\n"
+      "resposta": "{\"message\":\"At least one policy returned UNAUTHORIZED.\",\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"status\":403}\n"
     }
   ]
 }
